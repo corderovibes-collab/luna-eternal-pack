@@ -4,7 +4,7 @@
   "fabricLoader": "0.19.3",
   "server": {
     "name": "PokeReport : Luna Eternal",
-    "host": "s12.mia.us.tarohosting.com",
+    "host": "s12.mia.us.tarohosting.lat",
     "port": 33043
   },
   "files": [
@@ -74,7 +74,7 @@
     },
     {
       "path": "servers.dat",
-      "sha1": "a07326a77133e6fecd86b03ec1c93ce12a465bdf",
+      "sha1": "3454f49bb75422738b13250acedd630c5bcd877a",
       "size": 102,
       "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/servers.dat",
       "once": true
