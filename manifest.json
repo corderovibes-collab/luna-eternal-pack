@@ -1,0 +1,83 @@
+{
+  "packVersion": "0.1.0",
+  "minecraft": "1.21.1",
+  "fabricLoader": "0.19.3",
+  "server": {
+    "name": "PokeReport : Luna Eternal",
+    "host": "s12.mia.us.tarohosting.com",
+    "port": 33043
+  },
+  "files": [
+    {
+      "path": "mods/Cobblemon-fabric-1.7.3+1.21.1.jar",
+      "sha1": "f192cda3fdfec0f20d1dee1887ec1b9e77b1618c",
+      "size": 135801550,
+      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/kF7CvxTo/Cobblemon-fabric-1.7.3%2B1.21.1.jar"
+    },
+    {
+      "path": "mods/fabric-api-0.116.15+1.21.1.jar",
+      "sha1": "d25c793833a90cc028c9a61bc4546cd578a70ce1",
+      "size": 2452718,
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Nlt8gI9z/fabric-api-0.116.15%2B1.21.1.jar"
+    },
+    {
+      "path": "mods/sodium-fabric-0.8.12+mc1.21.1.jar",
+      "sha1": "70381d969eb63c0aa09dc581ef4b9a79782c0123",
+      "size": 1573180,
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/KIRFiWG4/sodium-fabric-0.8.12%2Bmc1.21.1.jar",
+      "optional": true
+    },
+    {
+      "path": "mods/lithium-fabric-0.15.4+mc1.21.1.jar",
+      "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63",
+      "size": 797454,
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
+      "optional": true
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-fabric.jar",
+      "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad",
+      "size": 123450,
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
+      "optional": true
+    },
+    {
+      "path": "mods/entityculling-fabric-1.10.5-mc1.21.1.jar",
+      "sha1": "7e8c9c44049e6575e75d1fe38d6006306b8d5623",
+      "size": 1595131,
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/hsWvcyFJ/entityculling-fabric-1.10.5-mc1.21.1.jar",
+      "optional": true
+    },
+    {
+      "path": "mods/modmenu-11.0.4.jar",
+      "sha1": "8af1b0b9ee18eab5cd5e5c97c497f0e473c49e9a",
+      "size": 973059,
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar"
+    },
+    {
+      "path": "mods/WorldEditCUI-1.21.1+01.jar",
+      "sha1": "9691bc8769c97c3bb4d8986ca0ab43e7c523be37",
+      "size": 680100,
+      "url": "https://cdn.modrinth.com/data/NSLJJooQ/versions/KzDaAGw6/WorldEditCUI-1.21.1%2B01.jar",
+      "profiles": [
+        "constructor"
+      ]
+    },
+    {
+      "path": "mods/Axiom-5.4.2-for-MC1.21.1.jar",
+      "sha1": "1f98d5b1fdd4a20c6b181d9374ee93b3dc8515ca",
+      "size": 47067416,
+      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/BzK22yyR/Axiom-5.4.2-for-MC1.21.1.jar",
+      "profiles": [
+        "constructor"
+      ]
+    },
+    {
+      "path": "servers.dat",
+      "sha1": "a07326a77133e6fecd86b03ec1c93ce12a465bdf",
+      "size": 102,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/main/servers.dat",
+      "once": true
+    }
+  ]
+}
