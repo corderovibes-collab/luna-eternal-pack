@@ -1,5 +1,5 @@
 {
-  "packVersion": "0.1.0",
+  "packVersion": "0.2.0",
   "minecraft": "1.21.1",
   "fabricLoader": "0.19.3",
   "server": {
@@ -9,56 +9,448 @@
   },
   "files": [
     {
-      "path": "mods/Cobblemon-fabric-1.7.3+1.21.1.jar",
-      "sha1": "f192cda3fdfec0f20d1dee1887ec1b9e77b1618c",
-      "size": 135801550,
-      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/kF7CvxTo/Cobblemon-fabric-1.7.3%2B1.21.1.jar"
+      "path": "mods/xaerominimap-fabric-1.21.1-25.3.5.jar",
+      "sha1": "82cbfff0e68092f31869f4d6509590e58c9f6b92",
+      "size": 2159839,
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Vqkdzsyt/xaerominimap-fabric-1.21.1-25.3.5.jar"
     },
     {
-      "path": "mods/fabric-api-0.116.15+1.21.1.jar",
-      "sha1": "d25c793833a90cc028c9a61bc4546cd578a70ce1",
-      "size": 2452718,
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Nlt8gI9z/fabric-api-0.116.15%2B1.21.1.jar"
+      "path": "mods/enhanced_attack_indicator-1.2.0+1.21.jar",
+      "sha1": "07a5a46e47c65aa414db59f9845a210358e98fa9",
+      "size": 35526,
+      "url": "https://cdn.modrinth.com/data/eTy17BBS/versions/AHy3bpQl/enhanced_attack_indicator-1.2.0%2B1.21.jar"
     },
     {
-      "path": "mods/sodium-fabric-0.6.13+mc1.21.1.jar",
-      "sha1": "928a2598178c3a58b0638bab842f467d2e49251a",
-      "size": 1297761,
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/u1OEbNKx/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
-      "optional": true
+      "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
+      "sha1": "b560f646a124d5204b1fb7321fec373b9c346fa5",
+      "size": 522970,
+      "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/836bPNGo/ComplementaryReimagined_r5.7.1.zip"
     },
     {
-      "path": "mods/lithium-fabric-0.15.4+mc1.21.1.jar",
-      "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63",
-      "size": 797454,
-      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
-      "optional": true
+      "path": "mods/krypton-0.2.8.jar",
+      "sha1": "73e792eb5f120787becda4b87b6ff18b26caea50",
+      "size": 161045,
+      "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
     },
     {
-      "path": "mods/ferritecore-7.0.3-fabric.jar",
-      "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad",
-      "size": 123450,
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
-      "optional": true
+      "path": "mods/tipsmod-fabric-1.21.1-21.1.3.jar",
+      "sha1": "400a51caa8b4d41a5daf4ca066d9b04d21de1c3d",
+      "size": 123580,
+      "url": "https://cdn.modrinth.com/data/AMCbgyVw/versions/hddaV9Qg/tipsmod-fabric-1.21.1-21.1.3.jar"
     },
     {
-      "path": "mods/entityculling-fabric-1.10.5-mc1.21.1.jar",
-      "sha1": "7e8c9c44049e6575e75d1fe38d6006306b8d5623",
-      "size": 1595131,
-      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/hsWvcyFJ/entityculling-fabric-1.10.5-mc1.21.1.jar",
-      "optional": true
+      "path": "mods/prickle-fabric-1.21.1-21.1.11.jar",
+      "sha1": "6d6032880be3b6469c5615fd2ea160bf5eb93ac2",
+      "size": 87229,
+      "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/Ef7P6Rb7/prickle-fabric-1.21.1-21.1.11.jar"
     },
     {
-      "path": "mods/modmenu-11.0.4.jar",
-      "sha1": "8af1b0b9ee18eab5cd5e5c97c497f0e473c49e9a",
-      "size": 973059,
-      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar"
+      "path": "mods/enchdesc-fabric-1.21.1-21.1.9.jar",
+      "sha1": "9bda22c7e3ca808ba52c93a99f5918b086f4d6db",
+      "size": 83422,
+      "url": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/DqX0eegg/enchdesc-fabric-1.21.1-21.1.9.jar"
+    },
+    {
+      "path": "mods/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar",
+      "sha1": "d59abea779c343b22925ea026d809073aa49ebbc",
+      "size": 27579,
+      "url": "https://cdn.modrinth.com/data/gPCdW0Wr/versions/WyRIJsP5/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar"
+    },
+    {
+      "path": "mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+      "sha1": "c72f07a8f139f0420cbce29bd9eb29fb24db427f",
+      "size": 81067,
+      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/KoUrx3jJ/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar"
+    },
+    {
+      "path": "mods/owo-lib-0.12.15.4+1.21.jar",
+      "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d",
+      "size": 1183559,
+      "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar"
+    },
+    {
+      "path": "mods/emi_ores-1.2+1.21.1+fabric.jar",
+      "sha1": "6e149b5d5b75e4a2b4846b0c87cbf8117bb4eec7",
+      "size": 109322,
+      "url": "https://cdn.modrinth.com/data/sG4TqDb8/versions/OwDhxsDZ/emi_ores-1.2%2B1.21.1%2Bfabric.jar"
+    },
+    {
+      "path": "mods/craftingtweaks-fabric-1.21.1-21.1.7.jar",
+      "sha1": "afad9dbf9ad58d2c4a109aa8508aa21cdfdf9179",
+      "size": 255008,
+      "url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/O7KkfR3Y/craftingtweaks-fabric-1.21.1-21.1.7.jar"
+    },
+    {
+      "path": "mods/PresenceFootsteps-1.11.1+1.21.jar",
+      "sha1": "cfbeb32cc1dc17ef5c83a9f7a073a26453da8a8c",
+      "size": 5690812,
+      "url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/cCWAPoWg/PresenceFootsteps-1.11.1%2B1.21.jar"
+    },
+    {
+      "path": "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "sha1": "c521e23a8be17a941f4f95a76feba9df5e3de5d0",
+      "size": 786695,
+      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Qvrc7DuG/konkrete_fabric_1.9.9_MC_1.21.jar"
+    },
+    {
+      "path": "mods/InvMoveCompats-0.5.0+1.21.8-Fabric.jar",
+      "sha1": "4fed449219b19667e358e63c987b0a11841011d9",
+      "size": 102285,
+      "url": "https://cdn.modrinth.com/data/6IpcGP7T/versions/H6eZczKg/InvMoveCompats-0.5.0%2B1.21.8-Fabric.jar"
+    },
+    {
+      "path": "mods/jei-1.21.1-fabric-19.27.0.340.jar",
+      "sha1": "7a7d5546db421639cd89b7807e9bb6def176cf89",
+      "size": 1561711,
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/TvqzuFwN/jei-1.21.1-fabric-19.27.0.340.jar"
+    },
+    {
+      "path": "mods/xaeroworldmap-fabric-1.21.1-1.40.6.jar",
+      "sha1": "35638fedcb3527489f5f35778e7dd78de5492f36",
+      "size": 1406730,
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hT5eHHLt/xaeroworldmap-fabric-1.21.1-1.40.6.jar"
+    },
+    {
+      "path": "mods/letmedespawn-1.21.x-fabric-1.5.0.jar",
+      "sha1": "e88e3167ea203fae1b084360fc8242bdfff63128",
+      "size": 14791,
+      "url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/Wb7jqi55/letmedespawn-1.21.x-fabric-1.5.0.jar"
+    },
+    {
+      "path": "mods/sodiumleafculling-fabric-1.0.1-1.21.1.jar",
+      "sha1": "792d25eab5876b3cd0d3b2b3e7b93d3d3a65836a",
+      "size": 299711,
+      "url": "https://cdn.modrinth.com/data/M25bkObt/versions/7zNT2jo4/sodiumleafculling-fabric-1.0.1-1.21.1.jar"
+    },
+    {
+      "path": "mods/particlerain-4.0.0-beta.5+1.21.1-fabric.jar",
+      "sha1": "e73a61bb88772a19b9609d388917f4c4b58830cc",
+      "size": 595246,
+      "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/UrZSj6yQ/particlerain-4.0.0-beta.5%2B1.21.1-fabric.jar"
+    },
+    {
+      "path": "mods/balm-fabric-1.21.1-21.0.56.jar",
+      "sha1": "0377b2e07551dc9fbcb40b94a3d38e098cd85d7e",
+      "size": 773504,
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/x4SzggaK/balm-fabric-1.21.1-21.0.56.jar"
+    },
+    {
+      "path": "mods/notenoughanimations-fabric-1.11.1-mc1.21.1.jar",
+      "sha1": "8cc4cbd822c24cc06042b4f6c394677da2d0b8d0",
+      "size": 1923320,
+      "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/MK7dm8OP/notenoughanimations-fabric-1.11.1-mc1.21.1.jar"
+    },
+    {
+      "path": "mods/emi_enchanting-0.1.2+1.21.jar",
+      "sha1": "a12a5e135cecd73b7dc13a5bf92fc526385a1136",
+      "size": 15210,
+      "url": "https://cdn.modrinth.com/data/wbWoo11W/versions/ld2zsfK3/emi_enchanting-0.1.2%2B1.21.jar"
     },
     {
       "path": "mods/iris-fabric-1.8.8+mc1.21.1.jar",
       "sha1": "4e0df4011503b4b36ba69877ea7247c1a47fea00",
       "size": 2690177,
       "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar"
+    },
+    {
+      "path": "mods/bwncr-fabric-1.21.1-3.20.3.jar",
+      "sha1": "730dd79efe41eea0d9ce0fb437cb17a8648613b9",
+      "size": 31382,
+      "url": "https://cdn.modrinth.com/data/lL2MtE37/versions/oPYFVC8t/bwncr-fabric-1.21.1-3.20.3.jar"
+    },
+    {
+      "path": "mods/swingthrough-1.0.5+1.21.jar",
+      "sha1": "26c5eee723332dd309879f176eadcc2871fbc2c5",
+      "size": 23523,
+      "url": "https://cdn.modrinth.com/data/JyKlunuD/versions/ELQQ49mK/swingthrough-1.0.5%2B1.21.jar"
+    },
+    {
+      "path": "mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c",
+      "size": 188035,
+      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar"
+    },
+    {
+      "path": "mods/wakes-0.2.2-1.21.jar",
+      "sha1": "e420013b75b83b5e573ebc5be090c569693097f8",
+      "size": 421245,
+      "url": "https://cdn.modrinth.com/data/7y4lnTPk/versions/fEOpac97/wakes-0.2.2-1.21.jar"
+    },
+    {
+      "path": "mods/entity_model_features_1.21-fabric-3.0.10.jar",
+      "sha1": "8369a9db73a1538090feb6f51762a733bcbd3f09",
+      "size": 488262,
+      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/O33Eiuq1/entity_model_features_1.21-fabric-3.0.10.jar"
+    },
+    {
+      "path": "mods/EMIProfessions-fabric-1.21.1-1.0.3.jar",
+      "sha1": "26ab09c2a5d21a7ffb220d31b77b403eafc05dab",
+      "size": 23809,
+      "url": "https://cdn.modrinth.com/data/LGVihYcz/versions/XToYnTFA/EMIProfessions-fabric-1.21.1-1.0.3.jar"
+    },
+    {
+      "path": "mods/entity_texture_features_1.21-fabric-7.0.8.jar",
+      "sha1": "6a8ead6c257b184ed1d59d535b7c51a05bb0ba69",
+      "size": 730042,
+      "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/P3oS1dIC/entity_texture_features_1.21-fabric-7.0.8.jar"
+    },
+    {
+      "path": "mods/visuality-0.7.7+1.21.jar",
+      "sha1": "8d239710c1c1983d780ad04686c3c3d0d1b1585e",
+      "size": 79452,
+      "url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/dhKbgdIb/visuality-0.7.7%2B1.21.jar"
+    },
+    {
+      "path": "mods/BetterPingDisplay-Fabric-1.21.1-1.1.1.jar",
+      "sha1": "534ba30ec8a7ea23048a507d02a651b6ddcaf523",
+      "size": 14850,
+      "url": "https://cdn.modrinth.com/data/MS1ZMyR7/versions/xCWQ8iLW/BetterPingDisplay-Fabric-1.21.1-1.1.1.jar"
+    },
+    {
+      "path": "mods/lambdynamiclights-4.8.7+1.21.1.jar",
+      "sha1": "b7dc4acb053b98810faffab19fde0f18b453a824",
+      "size": 2012226,
+      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/CQuTG9xY/lambdynamiclights-4.8.7%2B1.21.1.jar"
+    },
+    {
+      "path": "mods/yosbr-0.1.2.jar",
+      "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9",
+      "size": 17373,
+      "url": "https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar"
+    },
+    {
+      "path": "mods/emi-1.1.22+1.21.1+fabric.jar",
+      "sha1": "45550eada92c711d982a6fffb1f718fe12f07aee",
+      "size": 1025303,
+      "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/mYQ3bJs5/emi-1.1.22%2B1.21.1%2Bfabric.jar"
+    },
+    {
+      "path": "mods/dynamiccrosshair-9.11+1.21.1-fabric.jar",
+      "sha1": "bc409ae6b7d845f1f1b974fe8448cda540251d7b",
+      "size": 512191,
+      "url": "https://cdn.modrinth.com/data/ZcR9weSm/versions/ubTNYZuL/dynamiccrosshair-9.11%2B1.21.1-fabric.jar"
+    },
+    {
+      "path": "mods/BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar",
+      "sha1": "f6c6193c8711340e52645b65dbb7ffde7fbf6f30",
+      "size": 100151,
+      "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/j80BmLRo/BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar"
+    },
+    {
+      "path": "mods/particular-1.1.2+1.21.jar",
+      "sha1": "aa59b31359c2211f4a2d401235c4926084d4f97e",
+      "size": 240317,
+      "url": "https://cdn.modrinth.com/data/B1CcCd9h/versions/3dq7wTCR/particular-1.1.2%2B1.21.jar"
+    },
+    {
+      "path": "mods/entityculling-fabric-1.9.5-mc1.21.1.jar",
+      "sha1": "dffd306c5aeba040595e2f02badf441db638624b",
+      "size": 1560675,
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/xcyXBGgI/entityculling-fabric-1.9.5-mc1.21.1.jar"
+    },
+    {
+      "path": "mods/netherportalfix-fabric-1.21.1-21.1.3.jar",
+      "sha1": "970677295778926b09c3539b38e884854bc4d3c7",
+      "size": 213294,
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/9KrnphgC/netherportalfix-fabric-1.21.1-21.1.3.jar"
+    },
+    {
+      "path": "mods/lithium-fabric-0.15.1+mc1.21.1.jar",
+      "sha1": "6038cf136da413753345bf9d48e5798241439894",
+      "size": 772848,
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/E5eJVp4O/lithium-fabric-0.15.1%2Bmc1.21.1.jar"
+    },
+    {
+      "path": "mods/sodium-fabric-0.6.13+mc1.21.1.jar",
+      "sha1": "928a2598178c3a58b0638bab842f467d2e49251a",
+      "size": 1297761,
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/u1OEbNKx/sodium-fabric-0.6.13%2Bmc1.21.1.jar"
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-fabric.jar",
+      "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4",
+      "size": 1157166,
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar"
+    },
+    {
+      "path": "mods/CraftPresence-2.7.0+1.21.1-fabric.jar",
+      "sha1": "ca2543baf5aba48fb738787e886bd07751553c97",
+      "size": 2154624,
+      "url": "https://cdn.modrinth.com/data/DFqQfIBR/versions/hf7dz6o3/CraftPresence-2.7.0%2B1.21.1-fabric.jar"
+    },
+    {
+      "path": "mods/fabric-api-0.116.8+1.21.1.jar",
+      "sha1": "7bb69655470af3afa456bb2b6e984c87fdfacf47",
+      "size": 2425441,
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3wZtvzew/fabric-api-0.116.8%2B1.21.1.jar"
+    },
+    {
+      "path": "mods/Almanac-1.21.1-2-fabric-1.5.2.jar",
+      "sha1": "f259ee1c7b7e4d9c4abd59cc38e200cb1766ef3b",
+      "size": 1039789,
+      "url": "https://cdn.modrinth.com/data/Gi02250Z/versions/hUgNmeCO/Almanac-1.21.1-2-fabric-1.5.2.jar"
+    },
+    {
+      "path": "mods/monsters-in-the-closet-1.0.3+1.21.jar",
+      "sha1": "b54bbb904c174ce723d1c94b8d3c88882880d5fe",
+      "size": 12324,
+      "url": "https://cdn.modrinth.com/data/GMA8jFBD/versions/iBLoBKBc/monsters-in-the-closet-1.0.3%2B1.21.jar"
+    },
+    {
+      "path": "mods/OpenLoader-fabric-1.21.1-21.1.5.jar",
+      "sha1": "6b6babff85256683f7cb56abca091e8f22738596",
+      "size": 38198,
+      "url": "https://cdn.modrinth.com/data/KwWsINvD/versions/dX14HBtM/OpenLoader-fabric-1.21.1-21.1.5.jar"
+    },
+    {
+      "path": "mods/InvMove-0.9.3+1.21.1-Fabric.jar",
+      "sha1": "87c3fc1519f31e17c6ad27b108a3a3304d52a5f9",
+      "size": 84035,
+      "url": "https://cdn.modrinth.com/data/REfW2AEX/versions/nOwgsiRT/InvMove-0.9.3%2B1.21.1-Fabric.jar"
+    },
+    {
+      "path": "mods/BetterThirdPerson-Fabric-1.21-1.9.0.jar",
+      "sha1": "ea0dd2747e5d52d1b64dd29498e59602e79d9b69",
+      "size": 52188,
+      "url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/QZTn8cTa/BetterThirdPerson-Fabric-1.21-1.9.0.jar"
+    },
+    {
+      "path": "resourcepacks/Better-Leaves-9.4.zip",
+      "sha1": "4caada00aa07d45c9795079dd78a6c07aa644376",
+      "size": 1427931,
+      "url": "https://cdn.modrinth.com/data/uvpymuxq/versions/JW14JsXq/Better-Leaves-9.4.zip"
+    },
+    {
+      "path": "mods/bookshelf-fabric-1.21.1-21.1.80.jar",
+      "sha1": "07727159f65653fadae71c93123b249caee81596",
+      "size": 330260,
+      "url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/eRd8PTb9/bookshelf-fabric-1.21.1-21.1.80.jar"
+    },
+    {
+      "path": "mods/cherishedworlds-fabric-10.1.1+1.21.1.jar",
+      "sha1": "c4a0e044b2f34ed2f0ae5e64c22cc46ff4f10c4a",
+      "size": 63643,
+      "url": "https://cdn.modrinth.com/data/3azQ6p0W/versions/nPgbZ9q1/cherishedworlds-fabric-10.1.1%2B1.21.1.jar"
+    },
+    {
+      "path": "mods/jeed-1.21-2.3.2-fabric.jar",
+      "sha1": "d0cce7dd7e8d6c02c4c3653e8e43b39570291324",
+      "size": 160034,
+      "url": "https://cdn.modrinth.com/data/EO27GKs1/versions/ACRqKDcv/jeed-1.21-2.3.2-fabric.jar"
+    },
+    {
+      "path": "mods/Cobblemon-fabric-1.7.3+1.21.1.jar",
+      "sha1": "f192cda3fdfec0f20d1dee1887ec1b9e77b1618c",
+      "size": 135801550,
+      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/kF7CvxTo/Cobblemon-fabric-1.7.3%2B1.21.1.jar"
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-fabric.jar",
+      "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad",
+      "size": 123450,
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar"
+    },
+    {
+      "path": "mods/modmenu-11.0.3.jar",
+      "sha1": "6213120772192040a0aeb5c7cfe330c068605b1f",
+      "size": 973066,
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar"
+    },
+    {
+      "path": "mods/fallingleaves-1.17.1+1.21.1.jar",
+      "sha1": "5210b4cb359a95c53580b1399f98e51ab0967cc5",
+      "size": 170056,
+      "url": "https://cdn.modrinth.com/data/WhbRG4iK/versions/Y0zS16Bk/fallingleaves-1.17.1%2B1.21.1.jar"
+    },
+    {
+      "path": "mods/sodiumextras-fabric-1.0.8-1.21.1.jar",
+      "sha1": "4cf42ca95c94491d0af73aa443d17fca29ad83c0",
+      "size": 876916,
+      "url": "https://cdn.modrinth.com/data/vqqx0QiE/versions/3Smu12Iu/sodiumextras-fabric-1.0.8-1.21.1.jar"
+    },
+    {
+      "path": "mods/sodium-shadowy-path-blocks-fabric-4.0.0.jar",
+      "sha1": "d9abec69cdfb21612764142674dcdd398a90c1fe",
+      "size": 62392,
+      "url": "https://cdn.modrinth.com/data/EIa1eiMm/versions/Aymjs2iN/sodium-shadowy-path-blocks-fabric-4.0.0.jar"
+    },
+    {
+      "path": "mods/tooltipfix-1.1.1-1.20.jar",
+      "sha1": "de704792c691e3d19316c87c21c9ad2bee6c66c3",
+      "size": 12432,
+      "url": "https://cdn.modrinth.com/data/2RKFTmiB/versions/B2L4LeMV/tooltipfix-1.1.1-1.20.jar"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0",
+      "size": 1131265,
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar"
+    },
+    {
+      "path": "mods/shulkerboxtooltip-fabric-5.1.8+1.21.1.jar",
+      "sha1": "1eabfda9db507194203aad41c3172a5ac57a0b89",
+      "size": 377692,
+      "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/nGPvABlf/shulkerboxtooltip-fabric-5.1.8%2B1.21.1.jar"
+    },
+    {
+      "path": "mods/UniLib-1.2.0+1.21.1-fabric.jar",
+      "sha1": "d8dd29533568a76e6b37d88817069b0823bc5c67",
+      "size": 1747454,
+      "url": "https://cdn.modrinth.com/data/nT86WUER/versions/Wd6Xo4XV/UniLib-1.2.0%2B1.21.1-fabric.jar"
+    },
+    {
+      "path": "mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar",
+      "sha1": "66160fac4fdb9ddd854c5ed068fc329d24d09fd1",
+      "size": 373661,
+      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/anDafurZ/sodium-extra-fabric-0.6.0%2Bmc1.21.1.jar"
+    },
+    {
+      "path": "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
+      "sha1": "14628ba309d876cfefc4cef864a66ef12812066c",
+      "size": 20723,
+      "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar"
+    },
+    {
+      "path": "mods/AmbientEnvironment-fabric-1.21.1-18.0.0.2.jar",
+      "sha1": "51d00c5342ac128dbab28f7efbf428e1fe2519d5",
+      "size": 52331,
+      "url": "https://cdn.modrinth.com/data/DyTvM1dv/versions/TsLZwxGv/AmbientEnvironment-fabric-1.21.1-18.0.0.2.jar"
+    },
+    {
+      "path": "mods/appleskin-fabric-mc1.21-3.0.6.jar",
+      "sha1": "97452cfadfde1f8f8c67838643019eabafa58fbb",
+      "size": 1082585,
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/b5ZiCjAr/appleskin-fabric-mc1.21-3.0.6.jar"
+    },
+    {
+      "path": "mods/language-reload-1.7.5+1.21.1.jar",
+      "sha1": "f9283248a90e766f217b99c5a5342c807fea3ba5",
+      "size": 74984,
+      "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/jCM93jJ5/language-reload-1.7.5%2B1.21.1.jar"
+    },
+    {
+      "path": "mods/citresewn-1.2.2+1.21.jar",
+      "sha1": "5569769f66eda6d51ca3ae56d58d5a4657f19ef9",
+      "size": 396723,
+      "url": "https://cdn.modrinth.com/data/otVJckYQ/versions/JUnP9V1A/citresewn-1.2.2%2B1.21.jar"
+    },
+    {
+      "path": "mods/AdvancedLootInfo-fabric-1.21.1-1.7.1.jar",
+      "sha1": "32d285b19eb0c09ffadcc8b67548c893a765202b",
+      "size": 685644,
+      "url": "https://cdn.modrinth.com/data/PEPVViac/versions/eGn7gRMn/AdvancedLootInfo-fabric-1.21.1-1.7.1.jar"
+    },
+    {
+      "path": "mods/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
+      "sha1": "ca8c29ad2481ab5fe81095181541d183fa7faf19",
+      "size": 903592,
+      "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/RR1lyQmh/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar"
+    },
+    {
+      "path": "mods/fancymenu_fabric_3.8.1_MC_1.21.1.jar",
+      "sha1": "65903483bbf770824d821c6065309648aae95304",
+      "size": 4522643,
+      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/6V6kRZzL/fancymenu_fabric_3.8.1_MC_1.21.1.jar"
     },
     {
       "path": "mods/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
@@ -71,12 +463,6 @@
       "sha1": "36273e2f20035740a42beb16dd9d57f408ac7631",
       "size": 138107,
       "url": "https://cdn.modrinth.com/data/uQgWIE6A/versions/S3s0aITt/shine-1.0.0%2B1.21.1.jar"
-    },
-    {
-      "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
-      "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0",
-      "size": 1131265,
-      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar"
     },
     {
       "path": "mods/WorldEditCUI-1.21.1+01.jar",
@@ -131,6 +517,797 @@
       "sha1": "deaaa686ae51c47bf54c5ae49f56bf65fbfbb74e",
       "size": 247797,
       "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/mods/lunaneon-0.1.0.jar"
+    },
+    {
+      "path": "config/craftpresence.json",
+      "sha1": "5054b086c15b48683be6f5e18be68a44f9a42a07",
+      "size": 13376,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/craftpresence.json",
+      "once": true
+    },
+    {
+      "path": "config/openloader/options.json",
+      "sha1": "bfa4aceb6e5e555aa113fa56c4806c98dafcd226",
+      "size": 1111,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/openloader/options.json",
+      "once": true
+    },
+    {
+      "path": "config/openloader/resources/Cobblemon-Tips-2.0.zip",
+      "sha1": "550f604bdb6116990246d12f21673bbe1e85206f",
+      "size": 31344,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/openloader/resources/Cobblemon-Tips-2.0.zip",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/ali/ali_common.json",
+      "sha1": "fb6a473cce02ec2717b1702a29445dd84ac5dca0",
+      "size": 2293,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/ali/ali_common.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/almanac-nbtFix.json5",
+      "sha1": "6cff70078dac5b1a3f2768ef7c6265d6956e800d",
+      "size": 563,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/almanac-nbtFix.json5",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/appleskin.json5",
+      "sha1": "09ec0085a05a0fc1728add725bcfb2bbc732e80a",
+      "size": 1332,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/appleskin.json5",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/balm-client.toml",
+      "sha1": "0f27311740c643d9a01b5029426979337bc2f58c",
+      "size": 786,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/balm-client.toml",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/balm-common.out.toml",
+      "sha1": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "size": 927,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/balm-common.out.toml",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/balm-common.toml",
+      "sha1": "568d02b20ccbe28f7131b1fd09df2ef9d439fdb6",
+      "size": 873,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/balm-common.toml",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/bebooks/config.properties",
+      "sha1": "82c1c7e76cb18f1ef4868a71d5535613c0dea170",
+      "size": 250,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/bebooks/config.properties",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/bebooks/enchantment_data.json",
+      "sha1": "24015c21c8700b8ac1fc3450e9c09a7878315a4d",
+      "size": 3056,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/bebooks/enchantment_data.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/betteradvancements.json",
+      "sha1": "0a6f7acf7c829c382a21ab55b582687fe640ad0b",
+      "size": 597,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/betteradvancements.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/betterpingdisplay.json",
+      "sha1": "1ed7d849f6be8f532678ee2be434dfb7ff9b2bb5",
+      "size": 121,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/betterpingdisplay.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/betterthirdperson.json5",
+      "sha1": "ccc4ce55f817522bcb4291c77aad39523a2ee368",
+      "size": 639,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/betterthirdperson.json5",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/bhmenu/bhmenu-general.properties",
+      "sha1": "0062866c17707b7bb19d637ace739a1e3b62ca99",
+      "size": 889,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/bhmenu/bhmenu-general.properties",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/bhmenu/bhmenu-public_server_list.properties",
+      "sha1": "796c6d3e366ad317414054faaaa2a82be3057198",
+      "size": 780,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/bhmenu/bhmenu-public_server_list.properties",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/bhmenu/bhmenu-server_creator_banner.properties",
+      "sha1": "441628018f8fbe987a6a47f58aa3ffab09ec28bb",
+      "size": 616,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/bhmenu/bhmenu-server_creator_banner.properties",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/bwncr.toml",
+      "sha1": "466be2eb4bc369568231f7ca325a3749a1c82383",
+      "size": 131,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/bwncr.toml",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/citresewn.json",
+      "sha1": "962b8fbc4f2e6dd6ae7f3c4074281276e3c332ed",
+      "size": 121,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/citresewn.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/craftingtweaks-common.toml",
+      "sha1": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "size": 927,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/craftingtweaks-common.toml",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/craftingtweaks.toml",
+      "sha1": "7b7c588d43b131bfbc4e1814e550bab3e0c3e5df",
+      "size": 274,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/craftingtweaks.toml",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/dynamiccrosshair.json5",
+      "sha1": "645d736635356860bfca9a1da6717448421300ff",
+      "size": 3377,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/dynamiccrosshair.json5",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/emi.css",
+      "sha1": "ec800a18743cdb0b9a9832ea2ca4f6fa03256694",
+      "size": 10179,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/emi.css",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/emi_ores-client.json",
+      "sha1": "86ca7f545b6c7a8d91b932173f513e3d5b04d145",
+      "size": 33,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/emi_ores-client.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/enchdesc.json",
+      "sha1": "7afc913d0110cfd7e1379ab056448b76feb6900b",
+      "size": 2059,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/enchdesc.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/enhanced_attack_indicator.json",
+      "sha1": "58cae157548b6956c9143e672ca5f2a3daa46cf5",
+      "size": 222,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/enhanced_attack_indicator.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/entityculling.json",
+      "sha1": "ced62ef6e5b6b2f4f7affa8a7d2c8f40d04a4706",
+      "size": 1345,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/entityculling.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/entity_model_features.json",
+      "sha1": "8e36d72b6895ef7ca39a363606a08aac25eedf3a",
+      "size": 1028,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/entity_model_features.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/entity_texture_features.json",
+      "sha1": "907d2d2c52d47b4f41ee991ba9692ad1bb667da0",
+      "size": 1420,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/entity_texture_features.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/etf_warnings.json",
+      "sha1": "1573fc320a363b30a1a5e4cae1d4596ec177085d",
+      "size": 28,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/etf_warnings.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/fabric/indigo-renderer.properties",
+      "sha1": "4d7bc68b74c0c9cad4dcddf2f82c5dcbff026bbc",
+      "size": 290,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/fabric/indigo-renderer.properties",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/fallingleaves.json",
+      "sha1": "b92e14aa34e22a3ed424742cc1f5c4e25f9b979b",
+      "size": 10722,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/fallingleaves.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/ferritecore.mixin.properties",
+      "sha1": "8cec200d99bbe46689cbae8df75d62f4d52f68c1",
+      "size": 1615,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/ferritecore.mixin.properties",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/forgeconfigapiport.toml",
+      "sha1": "8cc384a976b022ed4000d14b3764f87aafe10947",
+      "size": 278,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/forgeconfigapiport.toml",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/invmove/cloth-config.json",
+      "sha1": "5ce8766d39cadbceb0466474b85d87cc6fd4993a",
+      "size": 44,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/invmove/cloth-config.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/invmove/emi.json",
+      "sha1": "5ce8766d39cadbceb0466474b85d87cc6fd4993a",
+      "size": 44,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/invmove/emi.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/invmove/jei.json",
+      "sha1": "5ce8766d39cadbceb0466474b85d87cc6fd4993a",
+      "size": 44,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/invmove/jei.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/invmove/rei.json",
+      "sha1": "5ce8766d39cadbceb0466474b85d87cc6fd4993a",
+      "size": 44,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/invmove/rei.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/invmove/unrecognized.json",
+      "sha1": "9d5e63d1e349a0c106b6b79a5e5c026d95252063",
+      "size": 1653,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/invmove/unrecognized.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/invmove/vanilla.json",
+      "sha1": "721f2f4206e69caa74cfaf8ff116f7d8ad833200",
+      "size": 1092,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/invmove/vanilla.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/invmove.json",
+      "sha1": "11f6297196a77f35d8efa87a16df4a88b73d50ec",
+      "size": 449,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/invmove.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/iris-excluded.json",
+      "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba",
+      "size": 31,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/iris-excluded.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/iris.properties",
+      "sha1": "f540a10c50dad2c9fa108d9c233a01fe70da92b4",
+      "size": 315,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/iris.properties",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/jei/blacklist.json",
+      "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39",
+      "size": 19,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/jei/blacklist.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/jei/jei-client.ini",
+      "sha1": "479e55f7a35c760f91e2cc192c518e46c786a3e9",
+      "size": 10746,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/jei/jei-client.ini",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/jei/jei-colors.ini",
+      "sha1": "46f80e4857aa8f8d9b0928e107c4391d54b3b313",
+      "size": 1362,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/jei/jei-colors.ini",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/jei/jei-debug.ini",
+      "sha1": "a977921de06d610005ba331750fcca1a14f75661",
+      "size": 1326,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/jei/jei-debug.ini",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/jei/jei-mod-id-format.ini",
+      "sha1": "2cd7853bd68950b2d61a80dd549ed65be0e0f6cb",
+      "size": 489,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/jei/jei-mod-id-format.ini",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/jei/recipe-category-sort-order.ini",
+      "sha1": "0add19f8c4871a367b6ab397506610384d9a0f8a",
+      "size": 320,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/jei/recipe-category-sort-order.ini",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/konkrete/locals/de_de.local",
+      "sha1": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
+      "size": 369,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/konkrete/locals/de_de.local",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/konkrete/locals/en_us.local",
+      "sha1": "42badc338e767559db38a67bd3e8020a92000e56",
+      "size": 426,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/konkrete/locals/en_us.local",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/konkrete/locals/pl_pl.local",
+      "sha1": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
+      "size": 313,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/konkrete/locals/pl_pl.local",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/konkrete/locals/pt_br.local",
+      "sha1": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
+      "size": 322,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/konkrete/locals/pt_br.local",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/lambdynlights.toml",
+      "sha1": "27bcf9c62bd9508c5a6d0b1acc3159235773d1a5",
+      "size": 4516,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/lambdynlights.toml",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/languagereload.json",
+      "sha1": "f1b1110ee4bdc2ab29133cb835aedd277f4eeced",
+      "size": 186,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/languagereload.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/letmedespawn.json",
+      "sha1": "ba4cd7604f0df79fb6d4085e63db0ef169b9bdfd",
+      "size": 72,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/letmedespawn.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/libgui.json5",
+      "sha1": "aa2f828b3903fa48180cb314feb1107f4b4e42f2",
+      "size": 101,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/libgui.json5",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/lithium.properties",
+      "sha1": "d4d30939d76f2e3e7ab2736e9649be0abcc310c0",
+      "size": 430,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/lithium.properties",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/loadmyresources/config.cfg",
+      "sha1": "b8ec3034afa0c08b831031696f10ad6e7ec64bdc",
+      "size": 79,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/loadmyresources/config.cfg",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/make_bubbles_pop.json",
+      "sha1": "d6b4937d88f7e0dc5e13a40c1076e12e8aa91401",
+      "size": 383,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/make_bubbles_pop.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/medal.json",
+      "sha1": "0f2a466e556bb9eed527e36c643924fe85f1ad80",
+      "size": 394,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/medal.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/midnightlib.json",
+      "sha1": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db",
+      "size": 37,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/midnightlib.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/modmenu.json",
+      "sha1": "4d750de4c5482f6c13747529997c698db69b1c0b",
+      "size": 474,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/modmenu.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/moreculling.toml",
+      "sha1": "ebffb78bf5b66168e807050f0841b51d38b5732f",
+      "size": 595,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/moreculling.toml",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/notenoughanimations.json",
+      "sha1": "a47b02b417ae52eb8b3fc7141d16901e44798155",
+      "size": 1388,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/notenoughanimations.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/panorama_screens/settings.json",
+      "sha1": "a86eccaffa7692ed004c6c97bef135c875651211",
+      "size": 2012,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/panorama_screens/settings.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/particlerain.json",
+      "sha1": "37e9b3ce434f4d10e73dfeb34161b2e1c02fcc3c",
+      "size": 14274,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/particlerain.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/particular.json5",
+      "sha1": "54d42f7ce5200a0c36e9d1cea1a67d75c47c6a3f",
+      "size": 1069,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/particular.json5",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/presencefootsteps/updater.json",
+      "sha1": "75c10c3afddf1b1665036da06cd9c74d2ae84007",
+      "size": 68,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/presencefootsteps/updater.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/presencefootsteps/userconfig.json",
+      "sha1": "751670d13a6c40ce7c8804b2eb8ba9290293efb4",
+      "size": 426,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/presencefootsteps/userconfig.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/roughlyenoughitems/collapsible.json5",
+      "sha1": "d3ddda466e4e5fb9048711c0424c8970d474fc7c",
+      "size": 46,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/roughlyenoughitems/collapsible.json5",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/roughlyenoughitems/config.json5",
+      "sha1": "07ebd0d73c19c51bcd197fd46c64a3cc33a4a0c8",
+      "size": 5616,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/roughlyenoughitems/config.json5",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/roughlyenoughitems/favorites.json5",
+      "sha1": "a6c79184ac1429d324dc54f0d94033dd57bf402d",
+      "size": 303,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/roughlyenoughitems/favorites.json5",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/roughlyenoughitems/hints.json",
+      "sha1": "697dbea4a25fd813ca10d3cc976e2a08e534363d",
+      "size": 63,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/roughlyenoughitems/hints.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/roughlyenoughitems/pinyin.properties",
+      "sha1": "bb15c44bb304c6bbaeb74015695702afaafccafa",
+      "size": 48,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/roughlyenoughitems/pinyin.properties",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/roughlyenoughitems/pinyin_double.properties",
+      "sha1": "ab5a55f6e350dd95dead5340d31aab214127ec8f",
+      "size": 73,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/roughlyenoughitems/pinyin_double.properties",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/sodium-extra-options.json",
+      "sha1": "4ad1c1aa3194a3daacbed3640ad2b66e1b9a3d01",
+      "size": 1583,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/sodium-extra-options.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/sodium-extra.properties",
+      "sha1": "e90b2514226a0624cf42112b42477f9872598b89",
+      "size": 360,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/sodium-extra.properties",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/sodium-fingerprint.json",
+      "sha1": "e2c818aabb04cdbd14462e1d9c11c59661fb50e5",
+      "size": 427,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/sodium-fingerprint.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/sodium-mixins.properties",
+      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
+      "size": 258,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/sodium-mixins.properties",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/sodium-options.json",
+      "sha1": "dd20dd90745d146946d032b0a23a1d09e722add2",
+      "size": 718,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/sodium-options.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/sodium-shadowy-path-blocks-options.json",
+      "sha1": "712e4a76bfe3c8768d8786e4f1922094f9cf6f7c",
+      "size": 107,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/sodium-shadowy-path-blocks-options.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/sodiumextras-client.toml",
+      "sha1": "feb224ee013e462e979cd7431d0ab20456300aef",
+      "size": 4889,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/sodiumextras-client.toml",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/stendhal/stendhal.properties",
+      "sha1": "2782509e4d2ad2717ec498e8883bda1e16944f28",
+      "size": 323,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/stendhal/stendhal.properties",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/tipsmod.json",
+      "sha1": "c23322fbfe6c0f9470192e849f9c50ce6276f03b",
+      "size": 905,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/tipsmod.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/transition.json",
+      "sha1": "175ef27df07234a2e37dfbda9766f8c947122e12",
+      "size": 62,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/transition.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/trender.json",
+      "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
+      "size": 47,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/trender.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/visuality.json",
+      "sha1": "7381cd0d9cc4551b2d2b64617b553994eedba911",
+      "size": 1981,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/visuality.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/wakes.json",
+      "sha1": "056dac7961868142670eeb4bb408489ccd147999",
+      "size": 1526,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/wakes.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/lib/client.cfg",
+      "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
+      "size": 26,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/lib/client.cfg",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/lib/common.cfg",
+      "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
+      "size": 236,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/lib/common.cfg",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/lib/profiles/default.cfg",
+      "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf",
+      "size": 121,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/lib/profiles/default.cfg",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/lib/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "size": 75,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/lib/server_profiles/default.cfg",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/minimap/client.cfg",
+      "sha1": "a18a4a75d6f033c35ecde56c14306760715a3a19",
+      "size": 235,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/minimap/client.cfg",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/minimap/common.cfg",
+      "sha1": "de09f45b29b264432b80d34bb0c336bd552fb9ee",
+      "size": 147,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/minimap/common.cfg",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/minimap/default_radar_categories_client.json",
+      "sha1": "262128beb36a1bdd3795096fc11dcaf397c56432",
+      "size": 7931,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/minimap/default_radar_categories_client.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/minimap/default_radar_categories_server.json",
+      "sha1": "c247867b018103357eb4015059fe209cc562de51",
+      "size": 4597,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/minimap/default_radar_categories_server.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/minimap/profiles/default.cfg",
+      "sha1": "18d4eec7fbae7065ce9321334a048cf58ab124dc",
+      "size": 3664,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/minimap/profiles/default.cfg",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "sha1": "bdb567424f4ad8d835e68b6d5631799dc031f808",
+      "size": 683,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/minimap/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "size": 75,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/minimap/server_profiles/default.cfg",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/world-map/client.cfg",
+      "sha1": "07a1a39efaab7034dd20757c3841bde1534057b4",
+      "size": 466,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/world-map/client.cfg",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/world-map/common.cfg",
+      "sha1": "c3c64f24c8d33940264147473e4a1c8ba5c219ff",
+      "size": 141,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/world-map/common.cfg",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/world-map/profiles/default.cfg",
+      "sha1": "740dfcd18520c804aac5545fd97d26c5f940e3e9",
+      "size": 1379,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/world-map/profiles/default.cfg",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaero/world-map/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "size": 75,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaero/world-map/server_profiles/default.cfg",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaerohud.txt",
+      "sha1": "9edacae64bb44823d4ea52304953a6da124bca66",
+      "size": 124,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaerohud.txt",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaerominimap.txt",
+      "sha1": "0b97deeaf25eb4a014c37add4ab5d4b61af970e0",
+      "size": 3655,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaerominimap.txt",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaerominimap_entities.json",
+      "sha1": "96fdcd01cee62dbe333207db03723c942e345455",
+      "size": 7931,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaerominimap_entities.json",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaeropatreon.txt",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaeropatreon.txt",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaeroworldmap-common.txt",
+      "sha1": "2654cb878cde3f8a7beaa75750a6ddd094cf8b97",
+      "size": 120,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaeroworldmap-common.txt",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/xaeroworldmap.txt",
+      "sha1": "f9f3473c03a6dd44911db71f46a9bc8598b01e0c",
+      "size": 1218,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/xaeroworldmap.txt",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/config/yacl.json5",
+      "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2",
+      "size": 250,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/config/yacl.json5",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/options.txt",
+      "sha1": "1f9a2fbcf342b53d10bda6f4316cb3d70dd48c11",
+      "size": 8150,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/options.txt",
+      "once": true
+    },
+    {
+      "path": "config/yosbr/shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt",
+      "sha1": "d08622ef2ec5dd37ad20ab5ea459fd371259ec94",
+      "size": 31,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt",
+      "once": true
     },
     {
       "path": "servers.dat",
