@@ -518,16 +518,9 @@
     },
     {
       "path": "mods/lunaneon-0.1.0.jar",
-      "sha1": "deaaa686ae51c47bf54c5ae49f56bf65fbfbb74e",
-      "size": 247797,
+      "sha1": "aa7d0d3bbc4c87ca59d941bd707913d5dc399b0a",
+      "size": 327994,
       "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/mods/lunaneon-0.1.0.jar"
-    },
-    {
-      "path": "resourcepacks/PokeReport-Luna-Pokedex.zip",
-      "sha1": "b2a9f4761450194ea11735bb23a566d1e25c5613",
-      "size": 72342,
-      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/resourcepacks/PokeReport-Luna-Pokedex.zip",
-      "once": true
     },
     {
       "path": "config/craftpresence.json",
@@ -1308,8 +1301,8 @@
     },
     {
       "path": "config/yosbr/options.txt",
-      "sha1": "ade9b918b4256f0ef5c2055b9cdab6f756693f30",
-      "size": 7956,
+      "sha1": "1f9a2fbcf342b53d10bda6f4316cb3d70dd48c11",
+      "size": 8150,
       "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/overrides/config/yosbr/options.txt",
       "once": true
     },
