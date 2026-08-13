@@ -91,6 +91,12 @@
       ]
     },
     {
+      "path": "mods/lunaneon-0.1.0.jar",
+      "sha1": "deaaa686ae51c47bf54c5ae49f56bf65fbfbb74e",
+      "size": 247797,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/mods/lunaneon-0.1.0.jar"
+    },
+    {
       "path": "servers.dat",
       "sha1": "3454f49bb75422738b13250acedd630c5bcd877a",
       "size": 102,
