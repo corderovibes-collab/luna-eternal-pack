@@ -21,10 +21,10 @@
       "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Nlt8gI9z/fabric-api-0.116.15%2B1.21.1.jar"
     },
     {
-      "path": "mods/sodium-fabric-0.8.12+mc1.21.1.jar",
-      "sha1": "70381d969eb63c0aa09dc581ef4b9a79782c0123",
-      "size": 1573180,
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/KIRFiWG4/sodium-fabric-0.8.12%2Bmc1.21.1.jar",
+      "path": "mods/sodium-fabric-0.6.13+mc1.21.1.jar",
+      "sha1": "928a2598178c3a58b0638bab842f467d2e49251a",
+      "size": 1297761,
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/u1OEbNKx/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
       "optional": true
     },
     {
@@ -53,6 +53,18 @@
       "sha1": "8af1b0b9ee18eab5cd5e5c97c497f0e473c49e9a",
       "size": 973059,
       "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar"
+    },
+    {
+      "path": "mods/iris-fabric-1.8.8+mc1.21.1.jar",
+      "sha1": "4e0df4011503b4b36ba69877ea7247c1a47fea00",
+      "size": 2690177,
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar"
+    },
+    {
+      "path": "mods/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
+      "sha1": "2a596436fca404cf497c1e9228d6cd9748d1fbf2",
+      "size": 4296552,
+      "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/7GNWrkGL/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar"
     },
     {
       "path": "mods/WorldEditCUI-1.21.1+01.jar",
@@ -91,6 +103,18 @@
       ]
     },
     {
+      "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+      "sha1": "af656a33be2cbd217ea08986ad2cdd76f6bbfe1c",
+      "size": 546928,
+      "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/VMHXIk50/ComplementaryUnbound_r5.8.1.zip"
+    },
+    {
+      "path": "shaderpacks/MakeUp-UltraFast-9.5c.zip",
+      "sha1": "57dfa2eb8b3f9c2e4963f6b77a3cedb0e846dc5d",
+      "size": 398840,
+      "url": "https://cdn.modrinth.com/data/izsIPI7a/versions/zt4eHisU/MakeUp-UltraFast-9.5c.zip"
+    },
+    {
       "path": "mods/lunaneon-0.1.0.jar",
       "sha1": "deaaa686ae51c47bf54c5ae49f56bf65fbfbb74e",
       "size": 247797,
@@ -101,6 +125,13 @@
       "sha1": "3454f49bb75422738b13250acedd630c5bcd877a",
       "size": 102,
       "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/servers.dat",
+      "once": true
+    },
+    {
+      "path": "config/iris.properties",
+      "sha1": "2e4f2ead9002ad7017dbdef58e6cef6aeebe4cbe",
+      "size": 182,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/iris.properties",
       "once": true
     }
   ]
