@@ -24,7 +24,8 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
       "sha1": "b560f646a124d5204b1fb7321fec373b9c346fa5",
       "size": 522970,
-      "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/836bPNGo/ComplementaryReimagined_r5.7.1.zip"
+      "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/836bPNGo/ComplementaryReimagined_r5.7.1.zip",
+      "once": true
     },
     {
       "path": "mods/krypton-0.2.8.jar",
@@ -318,7 +319,8 @@
       "path": "resourcepacks/Better-Leaves-9.4.zip",
       "sha1": "4caada00aa07d45c9795079dd78a6c07aa644376",
       "size": 1427931,
-      "url": "https://cdn.modrinth.com/data/uvpymuxq/versions/JW14JsXq/Better-Leaves-9.4.zip"
+      "url": "https://cdn.modrinth.com/data/uvpymuxq/versions/JW14JsXq/Better-Leaves-9.4.zip",
+      "once": true
     },
     {
       "path": "mods/bookshelf-fabric-1.21.1-21.1.80.jar",
@@ -504,13 +506,15 @@
       "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
       "sha1": "af656a33be2cbd217ea08986ad2cdd76f6bbfe1c",
       "size": 546928,
-      "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/VMHXIk50/ComplementaryUnbound_r5.8.1.zip"
+      "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/VMHXIk50/ComplementaryUnbound_r5.8.1.zip",
+      "once": true
     },
     {
       "path": "shaderpacks/MakeUp-UltraFast-9.5c.zip",
       "sha1": "57dfa2eb8b3f9c2e4963f6b77a3cedb0e846dc5d",
       "size": 398840,
-      "url": "https://cdn.modrinth.com/data/izsIPI7a/versions/zt4eHisU/MakeUp-UltraFast-9.5c.zip"
+      "url": "https://cdn.modrinth.com/data/izsIPI7a/versions/zt4eHisU/MakeUp-UltraFast-9.5c.zip",
+      "once": true
     },
     {
       "path": "mods/lunaneon-0.1.0.jar",
