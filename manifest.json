@@ -67,6 +67,18 @@
       "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/7GNWrkGL/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar"
     },
     {
+      "path": "mods/shine-1.0.0+1.21.1.jar",
+      "sha1": "36273e2f20035740a42beb16dd9d57f408ac7631",
+      "size": 138107,
+      "url": "https://cdn.modrinth.com/data/uQgWIE6A/versions/S3s0aITt/shine-1.0.0%2B1.21.1.jar"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0",
+      "size": 1131265,
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar"
+    },
+    {
       "path": "mods/WorldEditCUI-1.21.1+01.jar",
       "sha1": "9691bc8769c97c3bb4d8986ca0ab43e7c523be37",
       "size": 680100,
