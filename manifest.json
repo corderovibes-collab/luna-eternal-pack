@@ -524,9 +524,9 @@
     },
     {
       "path": "mods/lunaeternal-0.1.0.jar",
-      "sha1": "9a77f80ae6965e813eb04c0ff42894813b6af795",
-      "size": 1100839,
-      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/mods/lunaeternal-0.1.0-9a77f80ae6.jar"
+      "sha1": "f7d12c52614685ebfee79e6568b2ee7c94524a09",
+      "size": 1100729,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/mods/lunaeternal-0.1.0-f7d12c5261.jar"
     },
     {
       "path": "config/craftpresence.json",
