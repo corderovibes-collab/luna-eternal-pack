@@ -510,17 +510,17 @@
       "once": true
     },
     {
-      "path": "shaderpacks/MakeUp-UltraFast-9.5c.zip",
-      "sha1": "57dfa2eb8b3f9c2e4963f6b77a3cedb0e846dc5d",
-      "size": 398840,
-      "url": "https://cdn.modrinth.com/data/izsIPI7a/versions/zt4eHisU/MakeUp-UltraFast-9.5c.zip",
+      "path": "shaderpacks/MakeUp-UltraFast-9.5d.zip",
+      "sha1": "b8705a6871930c801959d103949fcc28281622db",
+      "size": 400386,
+      "url": "https://cdn.modrinth.com/data/izsIPI7a/versions/4hOlA9Ej/MakeUp-UltraFast-9.5d.zip",
       "once": true
     },
     {
       "path": "mods/lunaneon-0.1.0.jar",
-      "sha1": "b88674c34c7362ca958ad2eb8809cf78a3facd48",
-      "size": 319154,
-      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/mods/lunaneon-0.1.0-b88674c34c.jar"
+      "sha1": "d5e4a8c3912f0d0fc5d83854816019544b3d5560",
+      "size": 541010,
+      "url": "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/mods/lunaneon-0.1.0-d5e4a8c391.jar"
     },
     {
       "path": "config/craftpresence.json",
