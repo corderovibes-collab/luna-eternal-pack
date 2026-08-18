@@ -1478,13 +1478,14 @@
     },
     {
       "path": "config",
-      "sha1": "c9f829deca5268003ce99cca82a4371c60717799",
-      "size": 4223067,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-c9f829deca.zip",
+      "sha1": "fdc4f043ed53d2313416610d78458e1d4f65e8c8",
+      "size": 4221538,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-fdc4f043ed.zip",
       "archive": true,
       "keepExisting": true,
+      "once": true,
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-c9f829deca.zip"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-fdc4f043ed.zip"
       ]
     },
     {
@@ -1494,6 +1495,7 @@
       "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/resourcepacks-7dcaee8c6e.zip",
       "archive": true,
       "keepExisting": true,
+      "once": true,
       "urls": [
         "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/resourcepacks-7dcaee8c6e.zip"
       ]
