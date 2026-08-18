@@ -656,15 +656,6 @@
       ]
     },
     {
-      "path": "mods/continuity-3.0.0+1.21.jar",
-      "sha1": "c7f09b53512604c2ba6803b1247bc70e4d0f8f8c",
-      "size": 1014044,
-      "url": "https://cdn.modrinth.com/data/1IjD5062/versions/kSPJ4hQv/continuity-3.0.0%2B1.21.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/1IjD5062/versions/kSPJ4hQv/continuity-3.0.0%2B1.21.jar"
-      ]
-    },
-    {
       "path": "mods/toms_storage_fabric-1.21-2.3.0.jar",
       "sha1": "3f851ab4ba33b0efca0a03f3aa92a266415f5a87",
       "size": 1962781,
@@ -1441,14 +1432,14 @@
     },
     {
       "path": "config",
-      "sha1": "fdc4f043ed53d2313416610d78458e1d4f65e8c8",
-      "size": 4221538,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-fdc4f043ed.zip",
+      "sha1": "bdd2df4a9f663ae185e564b304b98c48d2a6e06f",
+      "size": 4221544,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-bdd2df4a9f.zip",
       "archive": true,
       "keepExisting": true,
       "once": true,
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-fdc4f043ed.zip"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-bdd2df4a9f.zip"
       ]
     },
     {
