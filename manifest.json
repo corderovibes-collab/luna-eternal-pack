@@ -1346,15 +1346,6 @@
       ]
     },
     {
-      "path": "mods/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
-      "sha1": "2a596436fca404cf497c1e9228d6cd9748d1fbf2",
-      "size": 4296552,
-      "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/7GNWrkGL/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/4H6sumDB/versions/7GNWrkGL/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar"
-      ]
-    },
-    {
       "path": "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
       "sha1": "14628ba309d876cfefc4cef864a66ef12812066c",
       "size": 20723,
@@ -1427,16 +1418,6 @@
       ],
       "urls": [
         "https://cdn.modrinth.com/data/bEpr0Arc/versions/o7i8oi1Z/litematica-fabric-1.21-0.19.61.jar"
-      ]
-    },
-    {
-      "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
-      "sha1": "af656a33be2cbd217ea08986ad2cdd76f6bbfe1c",
-      "size": 546928,
-      "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/VMHXIk50/ComplementaryUnbound_r5.8.1.zip",
-      "once": true,
-      "urls": [
-        "https://cdn.modrinth.com/data/R6NEzAwj/versions/VMHXIk50/ComplementaryUnbound_r5.8.1.zip"
       ]
     },
     {
