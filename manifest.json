@@ -1355,15 +1355,6 @@
       ]
     },
     {
-      "path": "mods/shine-1.0.0+1.21.1.jar",
-      "sha1": "36273e2f20035740a42beb16dd9d57f408ac7631",
-      "size": 138107,
-      "url": "https://cdn.modrinth.com/data/uQgWIE6A/versions/S3s0aITt/shine-1.0.0%2B1.21.1.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/uQgWIE6A/versions/S3s0aITt/shine-1.0.0%2B1.21.1.jar"
-      ]
-    },
-    {
       "path": "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
       "sha1": "14628ba309d876cfefc4cef864a66ef12812066c",
       "size": 20723,
