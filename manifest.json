@@ -473,15 +473,6 @@
       ]
     },
     {
-      "path": "mods/trinkets-3.10.0.jar",
-      "sha1": "f54756f938c7c273713b9f97d4a987eec551e892",
-      "size": 272944,
-      "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
-      ]
-    },
-    {
       "path": "mods/respackopts-4.14.0+1.21.1.4.jar",
       "sha1": "f32957a737d953a0422d4aaa5111ed1c1fe4a2ba",
       "size": 557358,
@@ -1062,15 +1053,6 @@
       "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
       "urls": [
         "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
-      ]
-    },
-    {
-      "path": "mods/accessories_compat_layer-fabric-0.1.12+1.21.1.jar",
-      "sha1": "44acb001881c063aa15fe66a26de5fae88e6564f",
-      "size": 398321,
-      "url": "https://cdn.modrinth.com/data/ySnjMzLg/versions/pWxabbaf/accessories_compat_layer-fabric-0.1.12%2B1.21.1.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/ySnjMzLg/versions/pWxabbaf/accessories_compat_layer-fabric-0.1.12%2B1.21.1.jar"
       ]
     },
     {
