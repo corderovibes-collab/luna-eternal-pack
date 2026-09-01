@@ -921,12 +921,12 @@
       ]
     },
     {
-      "path": "mods/fabric-api-0.116.16+1.21.1.jar",
-      "sha1": "07fcbd957f45592ac3ac63161b0bf4f0b724c665",
-      "size": 2467467,
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/fpB2VatZ/fabric-api-0.116.16%2B1.21.1.jar",
+      "path": "mods/fabric-api-0.116.17+1.21.1.jar",
+      "sha1": "810b2b0195371a012906241d8b85a32a1d6de53c",
+      "size": 2452735,
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/fpB2VatZ/fabric-api-0.116.16%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
       ]
     },
     {
@@ -1349,15 +1349,15 @@
       ]
     },
     {
-      "path": "mods/Axiom-6.0.2-for-MC1.21.1.jar",
-      "sha1": "4ec0315e875f13e4572270dac380f400c6d086c0",
-      "size": 47203734,
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/9UTJHy68/Axiom-6.0.2-for-MC1.21.1.jar",
+      "path": "mods/Axiom-5.4.2-for-MC1.21.1.jar",
+      "sha1": "1f98d5b1fdd4a20c6b181d9374ee93b3dc8515ca",
+      "size": 47067416,
+      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/BzK22yyR/Axiom-5.4.2-for-MC1.21.1.jar",
       "profiles": [
         "constructor"
       ],
       "urls": [
-        "https://cdn.modrinth.com/data/N6n5dqoA/versions/9UTJHy68/Axiom-6.0.2-for-MC1.21.1.jar"
+        "https://cdn.modrinth.com/data/N6n5dqoA/versions/BzK22yyR/Axiom-5.4.2-for-MC1.21.1.jar"
       ]
     },
     {
