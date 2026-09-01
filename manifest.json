@@ -921,12 +921,12 @@
       ]
     },
     {
-      "path": "mods/fabric-api-0.116.15+1.21.1.jar",
-      "sha1": "d25c793833a90cc028c9a61bc4546cd578a70ce1",
-      "size": 2452718,
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Nlt8gI9z/fabric-api-0.116.15%2B1.21.1.jar",
+      "path": "mods/fabric-api-0.116.16+1.21.1.jar",
+      "sha1": "07fcbd957f45592ac3ac63161b0bf4f0b724c665",
+      "size": 2467467,
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/fpB2VatZ/fabric-api-0.116.16%2B1.21.1.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/Nlt8gI9z/fabric-api-0.116.15%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/fpB2VatZ/fabric-api-0.116.16%2B1.21.1.jar"
       ]
     },
     {
@@ -1349,15 +1349,15 @@
       ]
     },
     {
-      "path": "mods/Axiom-5.4.2-for-MC1.21.1.jar",
-      "sha1": "1f98d5b1fdd4a20c6b181d9374ee93b3dc8515ca",
-      "size": 47067416,
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/BzK22yyR/Axiom-5.4.2-for-MC1.21.1.jar",
+      "path": "mods/Axiom-6.0.2-for-MC1.21.1.jar",
+      "sha1": "4ec0315e875f13e4572270dac380f400c6d086c0",
+      "size": 47203734,
+      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/9UTJHy68/Axiom-6.0.2-for-MC1.21.1.jar",
       "profiles": [
         "constructor"
       ],
       "urls": [
-        "https://cdn.modrinth.com/data/N6n5dqoA/versions/BzK22yyR/Axiom-5.4.2-for-MC1.21.1.jar"
+        "https://cdn.modrinth.com/data/N6n5dqoA/versions/9UTJHy68/Axiom-6.0.2-for-MC1.21.1.jar"
       ]
     },
     {
@@ -1417,11 +1417,11 @@
     },
     {
       "path": "mods/lunaeternal-0.1.0.jar",
-      "sha1": "17804d0acd3e7498b3e295e0ebee7550dbeb9682",
-      "size": 46039193,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-17804d0acd.jar",
+      "sha1": "2e1dd16fdc26a47a9f10229168c24f62ef045ce5",
+      "size": 46094089,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-2e1dd16fdc.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-17804d0acd.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-2e1dd16fdc.jar"
       ]
     },
     {
