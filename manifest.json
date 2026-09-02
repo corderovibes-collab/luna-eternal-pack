@@ -1,7 +1,7 @@
 {
   "packVersion": "0.2.0",
   "minecraft": "1.21.1",
-  "fabricLoader": "0.19.3",
+  "fabricLoader": "0.19.5",
   "server": {
     "name": "PokeReport : Luna Eternal",
     "host": "s12.mia.us.tarohosting.lat",
@@ -1310,6 +1310,15 @@
       ]
     },
     {
+      "path": "mods/EuphoriaPatcher-1.10.0-r5.9-fabric.jar",
+      "sha1": "7b8a6f26e5da74d45c02acb1bf4a176cfe1c7367",
+      "size": 4565030,
+      "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/ZitFh163/EuphoriaPatcher-1.10.0-r5.9-fabric.jar",
+      "urls": [
+        "https://cdn.modrinth.com/data/4H6sumDB/versions/ZitFh163/EuphoriaPatcher-1.10.0-r5.9-fabric.jar"
+      ]
+    },
+    {
       "path": "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
       "sha1": "14628ba309d876cfefc4cef864a66ef12812066c",
       "size": 20723,
@@ -1397,6 +1406,16 @@
       ]
     },
     {
+      "path": "shaderpacks/ComplementaryUnbound_r5.9.zip",
+      "sha1": "7d0e7113631d17f2d8ee0f45d7dbd5daed64e657",
+      "size": 552453,
+      "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/w6dISYOd/ComplementaryUnbound_r5.9.zip",
+      "once": true,
+      "urls": [
+        "https://cdn.modrinth.com/data/R6NEzAwj/versions/w6dISYOd/ComplementaryUnbound_r5.9.zip"
+      ]
+    },
+    {
       "path": "shaderpacks/MakeUp-UltraFast-9.5d.zip",
       "sha1": "b8705a6871930c801959d103949fcc28281622db",
       "size": 400386,
@@ -1408,20 +1427,20 @@
     },
     {
       "path": "mods/lunaneon-0.1.0.jar",
-      "sha1": "ea95162f39b781067834a016e6b8b6936c7b9abb",
-      "size": 5611456,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaneon-0.1.0-ea95162f39.jar",
+      "sha1": "9811e2feb49a2fff128fbe2866058d62786887a3",
+      "size": 5615520,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaneon-0.1.0-9811e2feb4.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaneon-0.1.0-ea95162f39.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaneon-0.1.0-9811e2feb4.jar"
       ]
     },
     {
       "path": "mods/lunaeternal-0.1.0.jar",
-      "sha1": "21dbcb28e92e5b5e0848ed42885cabd094b2e3bd",
-      "size": 47597990,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-21dbcb28e9.jar",
+      "sha1": "2db3938686bc5c48ddeb25a3d1be9c6fbc3a8140",
+      "size": 47620911,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-2db3938686.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-21dbcb28e9.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-2db3938686.jar"
       ]
     },
     {
