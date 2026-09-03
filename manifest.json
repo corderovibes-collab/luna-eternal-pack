@@ -1453,15 +1453,24 @@
       ]
     },
     {
+      "path": "mods/cobblemon-cards-1.0.5-luna1.jar",
+      "sha1": "5beff3063c5940cabebd287f78a7b143e2a79a97",
+      "size": 23519511,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/cobblemon-cards-1.0.5-luna1-5beff3063c.jar",
+      "urls": [
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/cobblemon-cards-1.0.5-luna1-5beff3063c.jar"
+      ]
+    },
+    {
       "path": "config",
-      "sha1": "bdd2df4a9f663ae185e564b304b98c48d2a6e06f",
-      "size": 4221544,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-bdd2df4a9f.zip",
+      "sha1": "631d2f87cb2b19264d179bfe098a8f676f99cf75",
+      "size": 4221805,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-631d2f87cb.zip",
       "archive": true,
       "keepExisting": true,
       "once": true,
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-bdd2df4a9f.zip"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-631d2f87cb.zip"
       ]
     },
     {
