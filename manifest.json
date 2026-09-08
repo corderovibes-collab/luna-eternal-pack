@@ -328,15 +328,6 @@
       ]
     },
     {
-      "path": "mods/melody_fabric_1.0.10_MC_1.21.jar",
-      "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c",
-      "size": 188035,
-      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar"
-      ]
-    },
-    {
       "path": "mods/AdvancementPlaques-1.21.1-fabric-1.6.8.jar",
       "sha1": "e3a5a514bbcc18e2c4e3bc251eb9f48e64217405",
       "size": 195505,
@@ -506,15 +497,6 @@
       "url": "https://cdn.modrinth.com/data/GebWh45l/versions/3iILerfL/cobblemonraiddens-fabric-0.11.7%2B1.21.1.jar",
       "urls": [
         "https://cdn.modrinth.com/data/GebWh45l/versions/3iILerfL/cobblemonraiddens-fabric-0.11.7%2B1.21.1.jar"
-      ]
-    },
-    {
-      "path": "mods/fancymenu_fabric_3.9.8_MC_1.21.1.jar",
-      "sha1": "72cf81b069075a39996d4b2360ffca3299ab539e",
-      "size": 25757227,
-      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/d8MLo3sY/fancymenu_fabric_3.9.8_MC_1.21.1.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/d8MLo3sY/fancymenu_fabric_3.9.8_MC_1.21.1.jar"
       ]
     },
     {
@@ -1174,15 +1156,6 @@
       ]
     },
     {
-      "path": "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
-      "sha1": "c521e23a8be17a941f4f95a76feba9df5e3de5d0",
-      "size": 786695,
-      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Qvrc7DuG/konkrete_fabric_1.9.9_MC_1.21.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/J81TRJWm/versions/Qvrc7DuG/konkrete_fabric_1.9.9_MC_1.21.jar"
-      ]
-    },
-    {
       "path": "mods/pastureLoot-1.0.5+1.21.1.jar",
       "sha1": "cc6bbf60b6a08d5b4f5c6416aa0279d92f761c73",
       "size": 45871,
@@ -1436,26 +1409,26 @@
     },
     {
       "path": "config",
-      "sha1": "75a26b08ee91183e723ef9744dacfe41a211910f",
-      "size": 4222825,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-75a26b08ee.zip",
+      "sha1": "bdd2df4a9f663ae185e564b304b98c48d2a6e06f",
+      "size": 4221544,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-bdd2df4a9f.zip",
       "archive": true,
       "keepExisting": true,
       "once": true,
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-75a26b08ee.zip"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-bdd2df4a9f.zip"
       ]
     },
     {
       "path": "resourcepacks",
-      "sha1": "e8e64c400852a0a5e308f44d9e2f3528b15d51f2",
-      "size": 20691598,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/resourcepacks-e8e64c4008.zip",
+      "sha1": "7dcaee8c6e46bd0cc6694cd8b162df659007e4b6",
+      "size": 20700777,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/resourcepacks-7dcaee8c6e.zip",
       "archive": true,
       "keepExisting": true,
       "once": true,
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/resourcepacks-e8e64c4008.zip"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/resourcepacks-7dcaee8c6e.zip"
       ]
     },
     {
