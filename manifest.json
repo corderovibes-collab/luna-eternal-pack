@@ -282,15 +282,6 @@
       ]
     },
     {
-      "path": "mods/c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar",
-      "sha1": "3a0a64877ba57d1f1198c7c6805719581859337d",
-      "size": 3757044,
-      "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/h8ey5B7D/c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/h8ey5B7D/c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar"
-      ]
-    },
-    {
       "path": "mods/owo-lib-0.12.15.4+1.21.jar",
       "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d",
       "size": 1183559,
@@ -427,12 +418,12 @@
       ]
     },
     {
-      "path": "mods/capturexp-fabric-1.7.3-1.3.0.jar",
-      "sha1": "fe935920b30c7cce657c2fa5e4dd27f36ea640cf",
-      "size": 22848,
-      "url": "https://cdn.modrinth.com/data/LBl4Qguc/versions/hjQp9Aq3/capturexp-fabric-1.7.3-1.3.0.jar",
+      "path": "mods/capturexp-fabric-1.8.0-1.3.0.jar",
+      "sha1": "2c2cc3e3839b47494fe550af9856b2b5859ff848",
+      "size": 23380,
+      "url": "https://cdn.modrinth.com/data/LBl4Qguc/versions/6INfd9ls/capturexp-fabric-1.8.0-1.3.0.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/LBl4Qguc/versions/hjQp9Aq3/capturexp-fabric-1.7.3-1.3.0.jar"
+        "https://cdn.modrinth.com/data/LBl4Qguc/versions/6INfd9ls/capturexp-fabric-1.8.0-1.3.0.jar"
       ]
     },
     {
@@ -629,15 +620,6 @@
       ]
     },
     {
-      "path": "mods/better-pokedex-scanner-1.0.0.jar",
-      "sha1": "cfb76dc69acbe4ec18a7f59b0911c7399afd671e",
-      "size": 350293,
-      "url": "https://cdn.modrinth.com/data/lESGhLxI/versions/fvFI487Y/better-pokedex-scanner-1.0.0.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/lESGhLxI/versions/fvFI487Y/better-pokedex-scanner-1.0.0.jar"
-      ]
-    },
-    {
       "path": "mods/fightorflight-fabric-0.11.0.jar",
       "sha1": "d3031a632dc5e4300ce273051ddfe0c2ad64859c",
       "size": 1446545,
@@ -702,12 +684,12 @@
       ]
     },
     {
-      "path": "mods/timcore-fabric-1.7.3-1.32.0.jar",
-      "sha1": "3a791c747a4beb4debf691c168f6e6b84efacd15",
-      "size": 304444,
-      "url": "https://cdn.modrinth.com/data/lVP9aUaY/versions/g5MKQfLZ/timcore-fabric-1.7.3-1.32.0.jar",
+      "path": "mods/timcore-fabric-1.8.0-1.32.0.jar",
+      "sha1": "83d245f77508313f404ba0745cfb22d6ca80d158",
+      "size": 300493,
+      "url": "https://cdn.modrinth.com/data/lVP9aUaY/versions/5BfmZHcz/timcore-fabric-1.8.0-1.32.0.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/lVP9aUaY/versions/g5MKQfLZ/timcore-fabric-1.7.3-1.32.0.jar"
+        "https://cdn.modrinth.com/data/lVP9aUaY/versions/5BfmZHcz/timcore-fabric-1.8.0-1.32.0.jar"
       ]
     },
     {
