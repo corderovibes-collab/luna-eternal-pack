@@ -702,15 +702,6 @@
       ]
     },
     {
-      "path": "mods/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
-      "sha1": "2a596436fca404cf497c1e9228d6cd9748d1fbf2",
-      "size": 4296552,
-      "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/7GNWrkGL/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/4H6sumDB/versions/7GNWrkGL/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar"
-      ]
-    },
-    {
       "path": "mods/cobblemon-battle-extras-fabric-1.13.45.jar",
       "sha1": "8d56d3e943d20f9d22be32e9a9dee5851eb7f654",
       "size": 1515972,
