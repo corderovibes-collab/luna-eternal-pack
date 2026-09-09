@@ -381,12 +381,12 @@
       ]
     },
     {
-      "path": "mods/catchrate-display-fabric-2.8.22.jar",
-      "sha1": "ad63e64fa2121c4a19f3ac72a9cd84313ac8390c",
-      "size": 260470,
-      "url": "https://cdn.modrinth.com/data/vADO40xp/versions/4MuGKLQg/catchrate-display-fabric-2.8.22.jar",
+      "path": "mods/catchrate-display-fabric-2.11.0.jar",
+      "sha1": "ff1ca51b7048588df8fd147fe50b072b78396cd5",
+      "size": 282415,
+      "url": "https://cdn.modrinth.com/data/vADO40xp/versions/RU5Jluoq/catchrate-display-fabric-2.11.0.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/vADO40xp/versions/4MuGKLQg/catchrate-display-fabric-2.8.22.jar"
+        "https://cdn.modrinth.com/data/vADO40xp/versions/RU5Jluoq/catchrate-display-fabric-2.11.0.jar"
       ]
     },
     {
@@ -991,12 +991,12 @@
       ]
     },
     {
-      "path": "mods/catchindicator-fabric-1.7.0.jar",
-      "sha1": "afe92fe750372efe83d9d85480f0e98401fdef1b",
-      "size": 318477,
-      "url": "https://cdn.modrinth.com/data/tpTcu2PM/versions/PMZ87iqE/catchindicator-fabric-1.7.0.jar",
+      "path": "mods/catchindicator-fabric-3.0.jar",
+      "sha1": "440dcbb949962185e64e1573ab98f97335ff9236",
+      "size": 335369,
+      "url": "https://cdn.modrinth.com/data/tpTcu2PM/versions/qPETaVwo/catchindicator-fabric-3.0.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/tpTcu2PM/versions/PMZ87iqE/catchindicator-fabric-1.7.0.jar"
+        "https://cdn.modrinth.com/data/tpTcu2PM/versions/qPETaVwo/catchindicator-fabric-3.0.jar"
       ]
     },
     {
@@ -1145,12 +1145,12 @@
       ]
     },
     {
-      "path": "mods/MoreCobblemonTweaks-fabric-1.3.3.jar",
-      "sha1": "1c1ce65f40b9409c209608680060866c2aaa1eb9",
-      "size": 137626,
-      "url": "https://cdn.modrinth.com/data/5KWlJ2HC/versions/1KKV0SvS/MoreCobblemonTweaks-fabric-1.3.3.jar",
+      "path": "mods/MoreCobblemonTweaks-fabric-1.3.4.jar",
+      "sha1": "ae639c20db033d52bcf4dea2ebba36ebf14a80e6",
+      "size": 137980,
+      "url": "https://cdn.modrinth.com/data/5KWlJ2HC/versions/tzXJpwG8/MoreCobblemonTweaks-fabric-1.3.4.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/5KWlJ2HC/versions/1KKV0SvS/MoreCobblemonTweaks-fabric-1.3.3.jar"
+        "https://cdn.modrinth.com/data/5KWlJ2HC/versions/tzXJpwG8/MoreCobblemonTweaks-fabric-1.3.4.jar"
       ]
     },
     {
