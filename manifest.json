@@ -92,15 +92,6 @@
       ]
     },
     {
-      "path": "mods/cobblemon-additions-4.1.6.jar",
-      "sha1": "293c0fd6354114cd45d2dd8e4e771d48b1d89200",
-      "size": 1961229,
-      "url": "https://cdn.modrinth.com/data/W2pr9jyL/versions/degN5DK4/cobblemon-additions-4.1.6.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/W2pr9jyL/versions/degN5DK4/cobblemon-additions-4.1.6.jar"
-      ]
-    },
-    {
       "path": "mods/soundsbegone-fabric-1.5.2+mc1.21.jar",
       "sha1": "3ef45517426b434a2ef6092559c494a67ee1aff9",
       "size": 6151935,
@@ -1353,11 +1344,11 @@
     },
     {
       "path": "mods/lunaeternal-0.1.0.jar",
-      "sha1": "1c13a7343c05a23053c75f97d404ab81e2dac0e7",
-      "size": 53804219,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-1c13a7343c.jar",
+      "sha1": "e025ce9ccae702963fefc398872ba7f5a278431c",
+      "size": 53804893,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-e025ce9cca.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-1c13a7343c.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-e025ce9cca.jar"
       ]
     },
     {
@@ -1367,6 +1358,15 @@
       "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/cobblemon-cards-1.0.5-luna1-5beff3063c.jar",
       "urls": [
         "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/cobblemon-cards-1.0.5-luna1-5beff3063c.jar"
+      ]
+    },
+    {
+      "path": "mods/cobblemon-additions-4.3.0-luna1.jar",
+      "sha1": "73366274a3b063f26c29e4a18b5cdf852e757844",
+      "size": 605112,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/cobblemon-additions-4.3.0-luna1-73366274a3.jar",
+      "urls": [
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/cobblemon-additions-4.3.0-luna1-73366274a3.jar"
       ]
     },
     {
