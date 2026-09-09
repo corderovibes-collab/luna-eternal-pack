@@ -964,12 +964,12 @@
       ]
     },
     {
-      "path": "mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
-      "sha1": "62ae40a31b689b52fde399f2143d547a631e942c",
-      "size": 8142858,
-      "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
+      "path": "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+      "sha1": "620cb137a9dc69ce86f3114f19d9eedab16366f5",
+      "size": 8076363,
+      "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar"
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar"
       ]
     },
     {
