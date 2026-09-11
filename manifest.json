@@ -1414,6 +1414,33 @@
       "urls": [
         "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/cobblemon-cards-2266d59eb4.json"
       ]
+    },
+    {
+      "path": "mods/magikarp-animated-armor-1.0.0.jar",
+      "sha1": "d23d384f26044a12c7a469b12baa72bf0b22df3b",
+      "size": 202229,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/magikarp-animated-armor-1.0.0.jar",
+      "urls": [
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/magikarp-animated-armor-1.0.0.jar"
+      ]
+    },
+    {
+      "path": "mods/eeveelution-armor-1.0.0.jar",
+      "sha1": "11354122c84b27758b81cb0dcda757bec980825a",
+      "size": 315464,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/eeveelution-armor-1.0.0.jar",
+      "urls": [
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/eeveelution-armor-1.0.0.jar"
+      ]
+    },
+    {
+      "path": "mods/pikachu-animated-armor-1.0.0.jar",
+      "sha1": "fb4ec5d7f63c403308d72a24121856c2a07d34ef",
+      "size": 475912,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/pikachu-animated-armor-1.0.0.jar",
+      "urls": [
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/pikachu-animated-armor-1.0.0.jar"
+      ]
     }
   ]
 }
