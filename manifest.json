@@ -1326,11 +1326,11 @@
     },
     {
       "path": "mods/lunaeternal-0.1.0.jar",
-      "sha1": "17cf97f6357d8bb4e481c31a756b41f782ad7c80",
-      "size": 53832971,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-17cf97f635.jar",
+      "sha1": "5563fc399696c894871da48276e2877684d128a2",
+      "size": 53834226,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-5563fc3996.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-17cf97f635.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-5563fc3996.jar"
       ]
     },
     {
@@ -1435,11 +1435,11 @@
     },
     {
       "path": "mods/pikachu-animated-armor-1.0.0.jar",
-      "sha1": "fb4ec5d7f63c403308d72a24121856c2a07d34ef",
-      "size": 475912,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/pikachu-animated-armor-1.0.0.jar",
+      "sha1": "5bc278af23e6707e80305520900c8404e6dd3202",
+      "size": 157194,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/pikachu-animated-armor-1.0.0-5bc278af23.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/pikachu-animated-armor-1.0.0.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/pikachu-animated-armor-1.0.0-5bc278af23.jar"
       ]
     }
   ]
