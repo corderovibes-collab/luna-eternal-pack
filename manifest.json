@@ -1326,11 +1326,11 @@
     },
     {
       "path": "mods/lunaeternal-0.1.0.jar",
-      "sha1": "d8a1e0318d48bae34b629502f000f938270400b5",
-      "size": 53836980,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-d8a1e0318d.jar",
+      "sha1": "87e0a3b90559c70be63924a2a592acf018c4307b",
+      "size": 47656273,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-87e0a3b905.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-d8a1e0318d.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-87e0a3b905.jar"
       ]
     },
     {
@@ -1416,30 +1416,12 @@
       ]
     },
     {
-      "path": "mods/magikarp-animated-armor-1.0.0.jar",
-      "sha1": "764c404aab8835e7d739ee5ab55ba1a6f81016d3",
-      "size": 203860,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/magikarp-animated-armor-1.0.0-764c404aab.jar",
+      "path": "mods/armaduraspokereport-kits-completo-1.0.0.jar",
+      "sha1": "b92fd4e108d86a815fd9584ebd565311e85e583b",
+      "size": 835821,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/armaduraspokereport-kits-completo-1.0.0-b92fd4e108.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/magikarp-animated-armor-1.0.0-764c404aab.jar"
-      ]
-    },
-    {
-      "path": "mods/eeveelution-armor-1.0.0.jar",
-      "sha1": "608b119faee0c77c3b715783d2026a67677801de",
-      "size": 317096,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/eeveelution-armor-1.0.0-608b119fae.jar",
-      "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/eeveelution-armor-1.0.0-608b119fae.jar"
-      ]
-    },
-    {
-      "path": "mods/pikachu-animated-armor-1.0.0.jar",
-      "sha1": "93157aaf3da54a542170f52a3d7cbc9bf865ff99",
-      "size": 169046,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/pikachu-animated-armor-1.0.0-93157aaf3d.jar",
-      "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/pikachu-animated-armor-1.0.0-93157aaf3d.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/armaduraspokereport-kits-completo-1.0.0-b92fd4e108.jar"
       ]
     }
   ]
