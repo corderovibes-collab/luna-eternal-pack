@@ -1326,11 +1326,11 @@
     },
     {
       "path": "mods/lunaeternal-0.1.0.jar",
-      "sha1": "d8a1e0318d48bae34b629502f000f938270400b5",
-      "size": 53836980,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-d8a1e0318d.jar",
+      "sha1": "dc894bdc5f45451dbe0fe3776fd07da8851fe558",
+      "size": 53842607,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-dc894bdc5f.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-d8a1e0318d.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-dc894bdc5f.jar"
       ]
     },
     {
@@ -1417,11 +1417,11 @@
     },
     {
       "path": "mods/armaduraspokereport-kits-completo-1.0.0.jar",
-      "sha1": "b92fd4e108d86a815fd9584ebd565311e85e583b",
-      "size": 835821,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/armaduraspokereport-kits-completo-1.0.0-b92fd4e108.jar",
+      "sha1": "c129b665ea6045f85eb0620f56804d5b42bf1294",
+      "size": 838008,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/armaduraspokereport-kits-completo-1.0.0-c129b665ea.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/armaduraspokereport-kits-completo-1.0.0-b92fd4e108.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/armaduraspokereport-kits-completo-1.0.0-c129b665ea.jar"
       ]
     }
   ]
