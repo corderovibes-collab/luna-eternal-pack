@@ -381,12 +381,12 @@
       ]
     },
     {
-      "path": "mods/capturexp-fabric-1.8.1-1.3.0.jar",
-      "sha1": "434b37ee0c1554f59c5c229b619ff2d4037b6767",
-      "size": 23382,
-      "url": "https://cdn.modrinth.com/data/LBl4Qguc/versions/FOUiJc3h/capturexp-fabric-1.8.1-1.3.0.jar",
+      "path": "mods/capturexp-fabric-1.8.0-1.3.0.jar",
+      "sha1": "2c2cc3e3839b47494fe550af9856b2b5859ff848",
+      "size": 23380,
+      "url": "https://cdn.modrinth.com/data/LBl4Qguc/versions/6INfd9ls/capturexp-fabric-1.8.0-1.3.0.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/LBl4Qguc/versions/FOUiJc3h/capturexp-fabric-1.8.1-1.3.0.jar"
+        "https://cdn.modrinth.com/data/LBl4Qguc/versions/6INfd9ls/capturexp-fabric-1.8.0-1.3.0.jar"
       ]
     },
     {
@@ -481,12 +481,12 @@
       ]
     },
     {
-      "path": "mods/Cobblemon-fabric-1.8.1+1.21.1.jar",
-      "sha1": "ebbf2dad130391cd39c51ffcf83a1b157951e919",
-      "size": 137391338,
-      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/gBW3vLC7/Cobblemon-fabric-1.8.1%2B1.21.1.jar",
+      "path": "mods/Cobblemon-fabric-1.8.0+1.21.1.jar",
+      "sha1": "ed0bbc67467189161b3bb9e1b8451afd8d073fa8",
+      "size": 162358118,
+      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/YgmyyFcs/Cobblemon-fabric-1.8.0%2B1.21.1.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/MdwFAVRL/versions/gBW3vLC7/Cobblemon-fabric-1.8.1%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/MdwFAVRL/versions/YgmyyFcs/Cobblemon-fabric-1.8.0%2B1.21.1.jar"
       ]
     },
     {
@@ -638,12 +638,12 @@
       ]
     },
     {
-      "path": "mods/timcore-fabric-1.8.1-1.32.0.jar",
-      "sha1": "079cebb379e8d16dee20745bbf6751dba170a789",
-      "size": 302823,
-      "url": "https://cdn.modrinth.com/data/lVP9aUaY/versions/LGMIJZls/timcore-fabric-1.8.1-1.32.0.jar",
+      "path": "mods/timcore-fabric-1.8.0-1.32.0.jar",
+      "sha1": "83d245f77508313f404ba0745cfb22d6ca80d158",
+      "size": 300493,
+      "url": "https://cdn.modrinth.com/data/lVP9aUaY/versions/5BfmZHcz/timcore-fabric-1.8.0-1.32.0.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/lVP9aUaY/versions/LGMIJZls/timcore-fabric-1.8.1-1.32.0.jar"
+        "https://cdn.modrinth.com/data/lVP9aUaY/versions/5BfmZHcz/timcore-fabric-1.8.0-1.32.0.jar"
       ]
     },
     {
@@ -1200,12 +1200,12 @@
       ]
     },
     {
-      "path": "mods/EuphoriaPatcher-1.10.1-r5.9.1-fabric.jar",
-      "sha1": "d06d8ee29f28a31a682aaf100c1911ab4b974b45",
-      "size": 4595595,
-      "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/VJhiN9Fz/EuphoriaPatcher-1.10.1-r5.9.1-fabric.jar",
+      "path": "mods/EuphoriaPatcher-1.10.0-r5.9-fabric.jar",
+      "sha1": "7b8a6f26e5da74d45c02acb1bf4a176cfe1c7367",
+      "size": 4565030,
+      "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/ZitFh163/EuphoriaPatcher-1.10.0-r5.9-fabric.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/4H6sumDB/versions/VJhiN9Fz/EuphoriaPatcher-1.10.1-r5.9.1-fabric.jar"
+        "https://cdn.modrinth.com/data/4H6sumDB/versions/ZitFh163/EuphoriaPatcher-1.10.0-r5.9-fabric.jar"
       ]
     },
     {
