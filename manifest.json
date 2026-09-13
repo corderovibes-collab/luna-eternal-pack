@@ -381,12 +381,12 @@
       ]
     },
     {
-      "path": "mods/capturexp-fabric-1.8.0-1.3.0.jar",
-      "sha1": "2c2cc3e3839b47494fe550af9856b2b5859ff848",
-      "size": 23380,
-      "url": "https://cdn.modrinth.com/data/LBl4Qguc/versions/6INfd9ls/capturexp-fabric-1.8.0-1.3.0.jar",
+      "path": "mods/capturexp-fabric-1.8.1-1.3.0.jar",
+      "sha1": "434b37ee0c1554f59c5c229b619ff2d4037b6767",
+      "size": 23382,
+      "url": "https://cdn.modrinth.com/data/LBl4Qguc/versions/FOUiJc3h/capturexp-fabric-1.8.1-1.3.0.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/LBl4Qguc/versions/6INfd9ls/capturexp-fabric-1.8.0-1.3.0.jar"
+        "https://cdn.modrinth.com/data/LBl4Qguc/versions/FOUiJc3h/capturexp-fabric-1.8.1-1.3.0.jar"
       ]
     },
     {
@@ -481,12 +481,12 @@
       ]
     },
     {
-      "path": "mods/Cobblemon-fabric-1.8.0+1.21.1.jar",
-      "sha1": "ed0bbc67467189161b3bb9e1b8451afd8d073fa8",
-      "size": 162358118,
-      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/YgmyyFcs/Cobblemon-fabric-1.8.0%2B1.21.1.jar",
+      "path": "mods/Cobblemon-fabric-1.8.1+1.21.1.jar",
+      "sha1": "ebbf2dad130391cd39c51ffcf83a1b157951e919",
+      "size": 137391338,
+      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/gBW3vLC7/Cobblemon-fabric-1.8.1%2B1.21.1.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/MdwFAVRL/versions/YgmyyFcs/Cobblemon-fabric-1.8.0%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/MdwFAVRL/versions/gBW3vLC7/Cobblemon-fabric-1.8.1%2B1.21.1.jar"
       ]
     },
     {
@@ -638,12 +638,12 @@
       ]
     },
     {
-      "path": "mods/timcore-fabric-1.8.0-1.32.0.jar",
-      "sha1": "83d245f77508313f404ba0745cfb22d6ca80d158",
-      "size": 300493,
-      "url": "https://cdn.modrinth.com/data/lVP9aUaY/versions/5BfmZHcz/timcore-fabric-1.8.0-1.32.0.jar",
+      "path": "mods/timcore-fabric-1.8.1-1.32.0.jar",
+      "sha1": "079cebb379e8d16dee20745bbf6751dba170a789",
+      "size": 302823,
+      "url": "https://cdn.modrinth.com/data/lVP9aUaY/versions/LGMIJZls/timcore-fabric-1.8.1-1.32.0.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/lVP9aUaY/versions/5BfmZHcz/timcore-fabric-1.8.0-1.32.0.jar"
+        "https://cdn.modrinth.com/data/lVP9aUaY/versions/LGMIJZls/timcore-fabric-1.8.1-1.32.0.jar"
       ]
     },
     {
@@ -1200,12 +1200,12 @@
       ]
     },
     {
-      "path": "mods/EuphoriaPatcher-1.10.0-r5.9-fabric.jar",
-      "sha1": "7b8a6f26e5da74d45c02acb1bf4a176cfe1c7367",
-      "size": 4565030,
-      "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/ZitFh163/EuphoriaPatcher-1.10.0-r5.9-fabric.jar",
+      "path": "mods/EuphoriaPatcher-1.10.1-r5.9.1-fabric.jar",
+      "sha1": "d06d8ee29f28a31a682aaf100c1911ab4b974b45",
+      "size": 4595595,
+      "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/VJhiN9Fz/EuphoriaPatcher-1.10.1-r5.9.1-fabric.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/4H6sumDB/versions/ZitFh163/EuphoriaPatcher-1.10.0-r5.9-fabric.jar"
+        "https://cdn.modrinth.com/data/4H6sumDB/versions/VJhiN9Fz/EuphoriaPatcher-1.10.1-r5.9.1-fabric.jar"
       ]
     },
     {
@@ -1296,13 +1296,13 @@
       ]
     },
     {
-      "path": "shaderpacks/ComplementaryUnbound_r5.9.zip",
-      "sha1": "7d0e7113631d17f2d8ee0f45d7dbd5daed64e657",
-      "size": 552453,
-      "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/w6dISYOd/ComplementaryUnbound_r5.9.zip",
+      "path": "shaderpacks/ComplementaryUnbound_r5.9.1.zip",
+      "sha1": "3a600568ea318b4886f59ab27a098abdfd49850b",
+      "size": 552949,
+      "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/UhZjVKiD/ComplementaryUnbound_r5.9.1.zip",
       "once": true,
       "urls": [
-        "https://cdn.modrinth.com/data/R6NEzAwj/versions/w6dISYOd/ComplementaryUnbound_r5.9.zip"
+        "https://cdn.modrinth.com/data/R6NEzAwj/versions/UhZjVKiD/ComplementaryUnbound_r5.9.1.zip"
       ]
     },
     {
@@ -1317,20 +1317,20 @@
     },
     {
       "path": "mods/lunaneon-0.1.0.jar",
-      "sha1": "2e4abce56879fff3f017bbed872579ebb6fcca64",
-      "size": 5651752,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaneon-0.1.0-2e4abce568.jar",
+      "sha1": "ea95162f39b781067834a016e6b8b6936c7b9abb",
+      "size": 5611456,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaneon-0.1.0-ea95162f39.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaneon-0.1.0-2e4abce568.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaneon-0.1.0-ea95162f39.jar"
       ]
     },
     {
       "path": "mods/lunaeternal-0.1.0.jar",
-      "sha1": "6a71101e2c8780e0826d4d2d704cd6bd723fc668",
-      "size": 53848915,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-6a71101e2c.jar",
+      "sha1": "ca619aef4bb4cf624befba7c51bfa9aa7a09fbb7",
+      "size": 53855458,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-ca619aef4b.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-6a71101e2c.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-ca619aef4b.jar"
       ]
     },
     {
@@ -1352,6 +1352,42 @@
       ]
     },
     {
+      "path": "mods/magikarp-animated-armor-1.0.0.jar",
+      "sha1": "16eba5c814cae92ce0b89b8700a93a2aef704328",
+      "size": 44336,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/magikarp-animated-armor-1.0.0-16eba5c814.jar",
+      "urls": [
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/magikarp-animated-armor-1.0.0-16eba5c814.jar"
+      ]
+    },
+    {
+      "path": "mods/pikachu-animated-armor-1.0.0.jar",
+      "sha1": "21e4f3efccbbf884a29e569f85d92df1fb8335f4",
+      "size": 150367,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/pikachu-animated-armor-1.0.0-21e4f3efcc.jar",
+      "urls": [
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/pikachu-animated-armor-1.0.0-21e4f3efcc.jar"
+      ]
+    },
+    {
+      "path": "mods/eeveelution-armor-1.0.0.jar",
+      "sha1": "95dd5d5bf0c84a356a9c8b29760f2f2fe9058fb8",
+      "size": 319784,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/eeveelution-armor-1.0.0-95dd5d5bf0.jar",
+      "urls": [
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/eeveelution-armor-1.0.0-95dd5d5bf0.jar"
+      ]
+    },
+    {
+      "path": "mods/armaduraspokereport-kits-completo-1.0.0.jar",
+      "sha1": "4edb88a80df6c26bc30cd5654db1f9d6bba70f54",
+      "size": 674002,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/armaduraspokereport-kits-completo-1.0.0-4edb88a80d.jar",
+      "urls": [
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/armaduraspokereport-kits-completo-1.0.0-4edb88a80d.jar"
+      ]
+    },
+    {
       "path": "mods/cobblemon-battle-positions-1.1.3.jar",
       "sha1": "2edbf7224a689b3463327f2970b481fd8e4ceae8",
       "size": 58572,
@@ -1362,26 +1398,26 @@
     },
     {
       "path": "config",
-      "sha1": "22043dd68abfdb237ea4e55da60f819fad5c297b",
-      "size": 223249,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-22043dd68a.zip",
+      "sha1": "60038305a62fc31aae1d7ebcb5d8ef378e2425ed",
+      "size": 222161,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-60038305a6.zip",
       "archive": true,
       "keepExisting": true,
       "once": true,
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-22043dd68a.zip"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-60038305a6.zip"
       ]
     },
     {
       "path": "resourcepacks",
-      "sha1": "ed4152f982cb0dd0d0ff54e82af5a562840b782e",
-      "size": 16728701,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/resourcepacks-ed4152f982.zip",
+      "sha1": "11af35978f6bd161d25eb3788545165fcb690795",
+      "size": 16738348,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/resourcepacks-11af35978f.zip",
       "archive": true,
       "keepExisting": true,
       "once": true,
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/resourcepacks-ed4152f982.zip"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/resourcepacks-11af35978f.zip"
       ]
     },
     {
@@ -1413,42 +1449,6 @@
       "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/cobblemon-cards-2266d59eb4.json",
       "urls": [
         "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/cobblemon-cards-2266d59eb4.json"
-      ]
-    },
-    {
-      "path": "mods/armaduraspokereport-kits-completo-1.0.0.jar",
-      "sha1": "4edb88a80df6c26bc30cd5654db1f9d6bba70f54",
-      "size": 674002,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/armaduraspokereport-kits-completo-1.0.0-4edb88a80d.jar",
-      "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/armaduraspokereport-kits-completo-1.0.0-4edb88a80d.jar"
-      ]
-    },
-    {
-      "path": "mods/magikarp-animated-armor-1.0.0.jar",
-      "sha1": "16eba5c814cae92ce0b89b8700a93a2aef704328",
-      "size": 44336,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/magikarp-animated-armor-1.0.0-16eba5c814.jar",
-      "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/magikarp-animated-armor-1.0.0-16eba5c814.jar"
-      ]
-    },
-    {
-      "path": "mods/pikachu-animated-armor-1.0.0.jar",
-      "sha1": "21e4f3efccbbf884a29e569f85d92df1fb8335f4",
-      "size": 150367,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/pikachu-animated-armor-1.0.0-21e4f3efcc.jar",
-      "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/pikachu-animated-armor-1.0.0-21e4f3efcc.jar"
-      ]
-    },
-    {
-      "path": "mods/eeveelution-armor-1.0.0.jar",
-      "sha1": "95dd5d5bf0c84a356a9c8b29760f2f2fe9058fb8",
-      "size": 319784,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/eeveelution-armor-1.0.0-95dd5d5bf0.jar",
-      "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/eeveelution-armor-1.0.0-95dd5d5bf0.jar"
       ]
     }
   ]
