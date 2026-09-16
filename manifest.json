@@ -1236,6 +1236,24 @@
       ]
     },
     {
+      "path": "mods/Jade-1.21.1-Fabric-15.10.6.jar",
+      "sha1": "bed67c605cbc991f474b270581cfa04ed48228df",
+      "size": 740746,
+      "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/adpNvTZS/Jade-1.21.1-Fabric-15.10.6.jar",
+      "urls": [
+        "https://cdn.modrinth.com/data/nvQzSEkH/versions/adpNvTZS/Jade-1.21.1-Fabric-15.10.6.jar"
+      ]
+    },
+    {
+      "path": "mods/image2map-0.7.1+1.21.jar",
+      "sha1": "3d5f143b3c4c151a2a6ced9dd6d0d319bccc5d9e",
+      "size": 332474,
+      "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/IcHYiWHv/image2map-0.7.1%2B1.21.jar",
+      "urls": [
+        "https://cdn.modrinth.com/data/13RpG7dA/versions/IcHYiWHv/image2map-0.7.1%2B1.21.jar"
+      ]
+    },
+    {
       "path": "mods/WorldEditCUI-1.21.1+01.jar",
       "sha1": "9691bc8769c97c3bb4d8986ca0ab43e7c523be37",
       "size": 680100,
@@ -1296,13 +1314,13 @@
       ]
     },
     {
-      "path": "shaderpacks/ComplementaryUnbound_r5.9.1.zip",
-      "sha1": "3a600568ea318b4886f59ab27a098abdfd49850b",
-      "size": 552949,
-      "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/UhZjVKiD/ComplementaryUnbound_r5.9.1.zip",
+      "path": "shaderpacks/ComplementaryUnbound_r5.9.3.zip",
+      "sha1": "2ee08300e1d6f039e63eae8484dddf57b3aaaf67",
+      "size": 553400,
+      "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/B1kyfoUZ/ComplementaryUnbound_r5.9.3.zip",
       "once": true,
       "urls": [
-        "https://cdn.modrinth.com/data/R6NEzAwj/versions/UhZjVKiD/ComplementaryUnbound_r5.9.1.zip"
+        "https://cdn.modrinth.com/data/R6NEzAwj/versions/B1kyfoUZ/ComplementaryUnbound_r5.9.3.zip"
       ]
     },
     {
