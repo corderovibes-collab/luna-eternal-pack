@@ -1,7 +1,7 @@
 {
   "options": {
     "COMPUTED_IS_DARK_MODE_ENABLED": false,
-    "SHOW_TITLE_SCREEN_BUTTON": true,
+    "SHOW_TITLE_SCREEN_BUTTON": false,
     "SHOW_AUTHOR": true,
     "SHOW_ALBUM_NAME": false,
     "ROTATE_ALBUM_COVER": false,
