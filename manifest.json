@@ -1468,7 +1468,7 @@
       "urls": [
         "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/cobblemon-cards-2266d59eb4.json"
       ],
-      "once": true
+      "managed": true
     }
   ]
 }
