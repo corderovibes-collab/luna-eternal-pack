@@ -4,8 +4,8 @@
   "fabricLoader": "0.19.5",
   "server": {
     "name": "PokeReport : Luna Eternal",
-    "host": "s12.mia.us.tarohosting.lat",
-    "port": 33043
+    "host": "play.pokereport.online",
+    "port": 25565
   },
   "files": [
     {
@@ -1344,11 +1344,11 @@
     },
     {
       "path": "mods/lunaeternal-0.1.0.jar",
-      "sha1": "7efbecd8e02ce0916b20149a9425b9db0eaf03f7",
-      "size": 68050477,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-7efbecd8e0.jar",
+      "sha1": "4add2b7194a82331eb0499d4b1238c86c8fa74a5",
+      "size": 68132239,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-4add2b7194.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-7efbecd8e0.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-4add2b7194.jar"
       ]
     },
     {
@@ -1416,14 +1416,14 @@
     },
     {
       "path": "config",
-      "sha1": "60038305a62fc31aae1d7ebcb5d8ef378e2425ed",
-      "size": 222161,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-60038305a6.zip",
+      "sha1": "080ea126bb0900cae9a5bf394d645b0c6c7b176b",
+      "size": 223507,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-080ea126bb.zip",
       "archive": true,
       "keepExisting": true,
       "once": true,
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-60038305a6.zip"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-080ea126bb.zip"
       ]
     },
     {
@@ -1440,12 +1440,12 @@
     },
     {
       "path": "servers.dat",
-      "sha1": "f66dce1193a8300d243d6f79c5a11c1fbdc5eb49",
-      "size": 92,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/servers-f66dce1193.dat",
+      "sha1": "4778cff4e331b4786198abf7656b13f72fc8574c",
+      "size": 88,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/servers-4778cff4e3.dat",
       "once": true,
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/servers-f66dce1193.dat",
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/servers-4778cff4e3.dat",
         "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/servers.dat"
       ]
     },
