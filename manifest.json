@@ -1469,6 +1469,18 @@
         "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/cobblemon-cards-2266d59eb4.json"
       ],
       "managed": true
+    },
+    {
+      "path": "mods/Flashback-0.39.9-for-MC1.21.1.jar",
+      "sha1": "bac9ad3387bb57df005d9bd2290d3810c1ff3c81",
+      "size": 210802503,
+      "url": "https://cdn.modrinth.com/data/4das1Fjq/versions/wZHvoJL4/Flashback-0.39.9-for-MC1.21.1.jar",
+      "profiles": [
+        "constructor"
+      ],
+      "urls": [
+        "https://cdn.modrinth.com/data/4das1Fjq/versions/wZHvoJL4/Flashback-0.39.9-for-MC1.21.1.jar"
+      ]
     }
   ]
 }
