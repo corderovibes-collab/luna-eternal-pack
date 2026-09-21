@@ -1481,6 +1481,18 @@
       "urls": [
         "https://cdn.modrinth.com/data/4das1Fjq/versions/wZHvoJL4/Flashback-0.39.9-for-MC1.21.1.jar"
       ]
+    },
+    {
+      "path": "mods/CustomSkinLoader_Universal-15.0.1.jar",
+      "sha1": "ab8dd841cafc3b4ecbf0250d3f5aee8a1fdb506a",
+      "size": 218215,
+      "url": "https://cdn.modrinth.com/data/idMHQ4n2/versions/OLaesh5y/CustomSkinLoader_Universal-15.0.1.jar",
+      "profiles": [
+        "constructor"
+      ],
+      "urls": [
+        "https://cdn.modrinth.com/data/idMHQ4n2/versions/OLaesh5y/CustomSkinLoader_Universal-15.0.1.jar"
+      ]
     }
   ]
 }
