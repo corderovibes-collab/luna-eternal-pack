@@ -1344,11 +1344,11 @@
     },
     {
       "path": "mods/lunaeternal-0.1.0.jar",
-      "sha1": "57fa229064c9b5c230b897f24897754b00cfa4d0",
-      "size": 68147009,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-57fa229064.jar",
+      "sha1": "9e97b9a49cb3b6ebd94d44f6d95f68f44dcd5762",
+      "size": 68150857,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-9e97b9a49c.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-57fa229064.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-9e97b9a49c.jar"
       ]
     },
     {
@@ -1480,6 +1480,24 @@
       ],
       "urls": [
         "https://cdn.modrinth.com/data/4das1Fjq/versions/wZHvoJL4/Flashback-0.39.9-for-MC1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/watermedia-3.0.0.23.jar",
+      "sha1": "a644ab079cc9ed19a62b181e0252be5a9a422166",
+      "size": 3625444,
+      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/FdCZ5Rxq/watermedia-3.0.0.23.jar",
+      "urls": [
+        "https://cdn.modrinth.com/data/G922NeHS/versions/FdCZ5Rxq/watermedia-3.0.0.23.jar"
+      ]
+    },
+    {
+      "path": "mods/watermedia_binaries-3.0.0.6.jar",
+      "sha1": "8f132fc2fec0fe91a9a085c11088f0773da187fc",
+      "size": 143725808,
+      "url": "https://cdn.modrinth.com/data/4997XcoK/versions/fYWsOuBz/watermedia_binaries-3.0.0.6.jar",
+      "urls": [
+        "https://cdn.modrinth.com/data/4997XcoK/versions/fYWsOuBz/watermedia_binaries-3.0.0.6.jar"
       ]
     }
   ]
