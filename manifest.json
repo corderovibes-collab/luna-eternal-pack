@@ -318,15 +318,6 @@
       ]
     },
     {
-      "path": "mods/sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
-      "sha1": "328dcb51c60f7e6cf19c40874dc67335fd44b9f7",
-      "size": 1670672,
-      "url": "https://cdn.modrinth.com/data/iHtpVwJL/versions/kjNlOByJ/sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/iHtpVwJL/versions/kjNlOByJ/sophisticatedstorage-1.21.1-1.3.7.9.139.jar"
-      ]
-    },
-    {
       "path": "mods/MouseTweaks-fabric-mc1.21-2.26.jar",
       "sha1": "ee81af33a5606ef2cd057e075833d7c69836c210",
       "size": 75984,
@@ -589,15 +580,6 @@
       "url": "https://cdn.modrinth.com/data/QwxR6Gcd/versions/dO7QNiof/Debugify-1.21.1%2B1.0.jar",
       "urls": [
         "https://cdn.modrinth.com/data/QwxR6Gcd/versions/dO7QNiof/Debugify-1.21.1%2B1.0.jar"
-      ]
-    },
-    {
-      "path": "mods/toms_storage_fabric-1.21-2.4.2.jar",
-      "sha1": "a0859e6f04aebb4afdc1923eac689f7d3309261c",
-      "size": 1971384,
-      "url": "https://cdn.modrinth.com/data/XZNI4Cpy/versions/nhRuPk5W/toms_storage_fabric-1.21-2.4.2.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/XZNI4Cpy/versions/nhRuPk5W/toms_storage_fabric-1.21-2.4.2.jar"
       ]
     },
     {
@@ -1344,11 +1326,11 @@
     },
     {
       "path": "mods/lunaeternal-0.1.0.jar",
-      "sha1": "947da91bc5bd6c90008753fcb6c3fbad73d7ef97",
-      "size": 108154643,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-947da91bc5.jar",
+      "sha1": "59c43a07a4b2e92089cf494d2a935293b2e6785a",
+      "size": 108268003,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-59c43a07a4.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-947da91bc5.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-59c43a07a4.jar"
       ]
     },
     {
@@ -1498,6 +1480,15 @@
       "url": "https://cdn.modrinth.com/data/4997XcoK/versions/fYWsOuBz/watermedia_binaries-3.0.0.6.jar",
       "urls": [
         "https://cdn.modrinth.com/data/4997XcoK/versions/fYWsOuBz/watermedia_binaries-3.0.0.6.jar"
+      ]
+    },
+    {
+      "path": "mods/punchy-2.8c-fabric-1.21.1.jar",
+      "sha1": "fcca6d5503597d1175fa9b0d0cae55393f3a214c",
+      "size": 1858121,
+      "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/80B8c9Qd/punchy-2.8c-fabric-1.21.1.jar",
+      "urls": [
+        "https://cdn.modrinth.com/data/8aoMKplv/versions/80B8c9Qd/punchy-2.8c-fabric-1.21.1.jar"
       ]
     }
   ]
