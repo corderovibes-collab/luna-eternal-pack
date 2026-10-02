@@ -1326,11 +1326,11 @@
     },
     {
       "path": "mods/lunaeternal-0.1.0.jar",
-      "sha1": "2890f8af4d48230137c8d746abdfcfb87a828790",
-      "size": 107650243,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-lunita-pose-fix-client-2890f8af4d.jar",
+      "sha1": "fdd01975c98efeb312565425761ad37f7abdf9ed",
+      "size": 107650655,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-web-portal-client-fdd01975c9.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-lunita-pose-fix-client-2890f8af4d.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-web-portal-client-fdd01975c9.jar"
       ]
     },
     {
