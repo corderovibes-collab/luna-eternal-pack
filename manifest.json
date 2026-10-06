@@ -1263,15 +1263,6 @@
       ]
     },
     {
-      "path": "mods/Jade-1.21.1-Fabric-15.10.6.jar",
-      "sha1": "bed67c605cbc991f474b270581cfa04ed48228df",
-      "size": 740746,
-      "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/adpNvTZS/Jade-1.21.1-Fabric-15.10.6.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/nvQzSEkH/versions/adpNvTZS/Jade-1.21.1-Fabric-15.10.6.jar"
-      ]
-    },
-    {
       "path": "mods/image2map-0.7.1+1.21.jar",
       "sha1": "3d5f143b3c4c151a2a6ced9dd6d0d319bccc5d9e",
       "size": 332474,
