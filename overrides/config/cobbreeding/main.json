@@ -15,7 +15,7 @@
   "dittoAndDittoAllowParadox": false,
   "dittoAndDittoAllowUltraBeast": false,
   "dittoAndDittoAllowUndiscovered": false,
-  "allowHoppersToPullFromPastureBlock": false,
+  "allowHoppersToPullFromPastureBlock": true,
   "inheritedFeatures": [
     "bagworm_cloak",
     "color",
@@ -34,7 +34,7 @@
     "whiscash_nero",
     "wooper_heart"
   ],
-  "maxNumberOfActivatedPasturePerPlayer": 0,
+  "maxNumberOfActivatedPasturePerPlayer": -1,
   "pastureInventorySize": 3,
   "eggEncryptionEnabled": false,
   "cobblemonSizeVariationsCompatEnabled": true

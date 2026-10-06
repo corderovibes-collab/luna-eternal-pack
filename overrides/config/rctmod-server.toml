@@ -3,7 +3,7 @@
 	#A global factor that determines if a spawn attempt for a trainer is made.
 	# Default: 0.85
 	# Range: 0.0 ~ 1.0
-	globalSpawnChance = 0.55
+	globalSpawnChance = 0.0
 	#━━━━━━━━━━
 	#The chance for a trainer to spawn will shrink towards this value based of how many
 	#trainers are already spawned in for a player. For example if a player has 0 trainers
@@ -57,13 +57,13 @@
 	#Spawn cap of trainers per player.
 	# Default: 12
 	# Range: 0 ~ 2147483646
-	maxTrainersPerPlayer = 6
+	maxTrainersPerPlayer = 0
 	#━━━━━━━━━━
 	#Total trainer spawn cap. This value may be increased for servers with higher expected
 	#player numbers (> 4), for example (|players| + 1)*maxTrainersPerPlayer.
 	# Default: 60
 	# Range: 0 ~ 2147483646
-	maxTrainersTotal = 60
+	maxTrainersTotal = 0
 	#━━━━━━━━━━
 	#The maximum level difference between the strongest pokemon in the team of a
 	#player (at or below that players level cap) and the strongest pokemon in the
@@ -90,7 +90,7 @@
 	#card and have either not started a series or completed their current series. One may also spawn nearby
 	#any player in proximity to a village (at least 3 occupied beds and a village center). These can
 	#spawn everywhere but will respect the 'dimensionBlacklist' and 'dimensionWhitelist' settings.
-	spawnTrainerAssociation = true
+	spawnTrainerAssociation = false
 	#━━━━━━━━━━
 	#A comma separated list of dimensions (e.g. ["multiworld:spawn", "minecraft:the_end"]).
 	#In these dimensions trainers will never spawn.

@@ -527,12 +527,12 @@
       ]
     },
     {
-      "path": "mods/supermartijn642corelib-1.1.24-fabric-mc1.21.jar",
-      "sha1": "af34ec8780ddf89f0fd402af588a2d33da951e2a",
-      "size": 620662,
-      "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/UKivQBSc/supermartijn642corelib-1.1.24-fabric-mc1.21.jar",
+      "path": "mods/supermartijn642corelib-1.1.25-fabric-mc1.21.jar",
+      "sha1": "3339afb26de57eb3b83aed326e6cab5c1af1e490",
+      "size": 622551,
+      "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/ImY2F2fz/supermartijn642corelib-1.1.25-fabric-mc1.21.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/rOUBggPv/versions/UKivQBSc/supermartijn642corelib-1.1.24-fabric-mc1.21.jar"
+        "https://cdn.modrinth.com/data/rOUBggPv/versions/ImY2F2fz/supermartijn642corelib-1.1.25-fabric-mc1.21.jar"
       ]
     },
     {
@@ -629,12 +629,12 @@
       ]
     },
     {
-      "path": "mods/fusion-1.3.15a-fabric-mc1.21.jar",
-      "sha1": "6ecee3c3ad13c237f22dc839a2efafcfb7ddceea",
-      "size": 913490,
-      "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/dfzgw8H8/fusion-1.3.15a-fabric-mc1.21.jar",
+      "path": "mods/fusion-1.3.16-fabric-mc1.21.jar",
+      "sha1": "ce69d9c427e17d15ce99b43a2c5cffc4cd5dfa30",
+      "size": 913396,
+      "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/LQSMRNBf/fusion-1.3.16-fabric-mc1.21.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/p19vrgc2/versions/dfzgw8H8/fusion-1.3.15a-fabric-mc1.21.jar"
+        "https://cdn.modrinth.com/data/p19vrgc2/versions/LQSMRNBf/fusion-1.3.16-fabric-mc1.21.jar"
       ]
     },
     {
@@ -820,12 +820,12 @@
       ]
     },
     {
-      "path": "mods/rctmod-fabric-1.21.1-0.19.0-beta.jar",
-      "sha1": "120887e0ed4e7a9a4db92a3e2029b3a122e6bfd2",
-      "size": 6783347,
-      "url": "https://cdn.modrinth.com/data/lRwTUnD7/versions/jdUENp3C/rctmod-fabric-1.21.1-0.19.0-beta.jar",
+      "path": "mods/rctmod-fabric-1.21.1-0.19.2-beta.jar",
+      "sha1": "dba27885e477a583dffe1a46c83b4df6af96fc4c",
+      "size": 6807725,
+      "url": "https://cdn.modrinth.com/data/lRwTUnD7/versions/rgfBfnW9/rctmod-fabric-1.21.1-0.19.2-beta.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/lRwTUnD7/versions/jdUENp3C/rctmod-fabric-1.21.1-0.19.0-beta.jar"
+        "https://cdn.modrinth.com/data/lRwTUnD7/versions/rgfBfnW9/rctmod-fabric-1.21.1-0.19.2-beta.jar"
       ]
     },
     {
@@ -910,12 +910,12 @@
       ]
     },
     {
-      "path": "mods/balm-fabric-1.21.1-21.0.65.jar",
-      "sha1": "26d3c9bb16cee40bf76371680e248d2f9c7f4690",
-      "size": 806784,
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/VynBiUHt/balm-fabric-1.21.1-21.0.65.jar",
+      "path": "mods/balm-fabric-1.21.1-21.0.66.jar",
+      "sha1": "37266aadaed39205f4a3844930e76d2eebb866a4",
+      "size": 805265,
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/EghJxg4h/balm-fabric-1.21.1-21.0.66.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/MBAkmtvl/versions/VynBiUHt/balm-fabric-1.21.1-21.0.65.jar"
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/EghJxg4h/balm-fabric-1.21.1-21.0.66.jar"
       ]
     },
     {
@@ -973,12 +973,12 @@
       ]
     },
     {
-      "path": "mods/NoChatRestrictions-Fabric-MC1.21.11-v1.0.2.jar",
-      "sha1": "0146df8abd97111aeae00f6911110368b9b10281",
-      "size": 11333,
-      "url": "https://cdn.modrinth.com/data/z440MEwJ/versions/Wmvqt0wm/NoChatRestrictions-Fabric-MC1.21.11-v1.0.2.jar",
+      "path": "mods/NoChatRestrictions-Fabric-MC1.21.11-v1.0.3.jar",
+      "sha1": "1293a088de32bad461bf034dae45d57c1fca0357",
+      "size": 10182,
+      "url": "https://cdn.modrinth.com/data/z440MEwJ/versions/J95EIHAC/NoChatRestrictions-Fabric-MC1.21.11-v1.0.3.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/z440MEwJ/versions/Wmvqt0wm/NoChatRestrictions-Fabric-MC1.21.11-v1.0.2.jar"
+        "https://cdn.modrinth.com/data/z440MEwJ/versions/J95EIHAC/NoChatRestrictions-Fabric-MC1.21.11-v1.0.3.jar"
       ]
     },
     {
@@ -1082,12 +1082,12 @@
       ]
     },
     {
-      "path": "mods/Cobbreeding-fabric-2.3.0.jar",
-      "sha1": "8bf8f20f8c5939395a9fbfda4f8e368b2889ea30",
-      "size": 475711,
-      "url": "https://cdn.modrinth.com/data/ItmVb4zY/versions/dED6lApR/Cobbreeding-fabric-2.3.0.jar",
+      "path": "mods/Cobbreeding-fabric-2.4.0.jar",
+      "sha1": "6dcd3bf356a55515489512623e33785c32e1a5da",
+      "size": 477755,
+      "url": "https://cdn.modrinth.com/data/ItmVb4zY/versions/r68eGAJ9/Cobbreeding-fabric-2.4.0.jar",
       "urls": [
-        "https://cdn.modrinth.com/data/ItmVb4zY/versions/dED6lApR/Cobbreeding-fabric-2.3.0.jar"
+        "https://cdn.modrinth.com/data/ItmVb4zY/versions/r68eGAJ9/Cobbreeding-fabric-2.4.0.jar"
       ]
     },
     {
@@ -1182,12 +1182,57 @@
       ]
     },
     {
+      "path": "mods/punchy-2.8c-fabric-1.21.1.jar",
+      "sha1": "fcca6d5503597d1175fa9b0d0cae55393f3a214c",
+      "size": 1858121,
+      "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/80B8c9Qd/punchy-2.8c-fabric-1.21.1.jar",
+      "urls": [
+        "https://cdn.modrinth.com/data/8aoMKplv/versions/80B8c9Qd/punchy-2.8c-fabric-1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/watermedia-3.0.0.23.jar",
+      "sha1": "a644ab079cc9ed19a62b181e0252be5a9a422166",
+      "size": 3625444,
+      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/FdCZ5Rxq/watermedia-3.0.0.23.jar",
+      "urls": [
+        "https://cdn.modrinth.com/data/G922NeHS/versions/FdCZ5Rxq/watermedia-3.0.0.23.jar"
+      ]
+    },
+    {
+      "path": "mods/watermedia_binaries-3.0.0.6.jar",
+      "sha1": "8f132fc2fec0fe91a9a085c11088f0773da187fc",
+      "size": 143725808,
+      "url": "https://cdn.modrinth.com/data/4997XcoK/versions/fYWsOuBz/watermedia_binaries-3.0.0.6.jar",
+      "urls": [
+        "https://cdn.modrinth.com/data/4997XcoK/versions/fYWsOuBz/watermedia_binaries-3.0.0.6.jar"
+      ]
+    },
+    {
       "path": "mods/EuphoriaPatcher-1.10.0-r5.9-fabric.jar",
       "sha1": "7b8a6f26e5da74d45c02acb1bf4a176cfe1c7367",
       "size": 4565030,
       "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/ZitFh163/EuphoriaPatcher-1.10.0-r5.9-fabric.jar",
       "urls": [
         "https://cdn.modrinth.com/data/4H6sumDB/versions/ZitFh163/EuphoriaPatcher-1.10.0-r5.9-fabric.jar"
+      ]
+    },
+    {
+      "path": "mods/lootr-fabric-1.21.1-1.11.38.127.jar",
+      "sha1": "6671786d4c36a33dcefff85d757022c2a8ed535f",
+      "size": 1111591,
+      "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/nar56EsW/lootr-fabric-1.21.1-1.11.38.127.jar",
+      "urls": [
+        "https://cdn.modrinth.com/data/EltpO5cN/versions/nar56EsW/lootr-fabric-1.21.1-1.11.38.127.jar"
+      ]
+    },
+    {
+      "path": "mods/lootrmon-fabric-1.21.1-0.0.0.3.jar",
+      "sha1": "a09db5b7dd916f3c7fb9e1da1bd83c04f14ce4d9",
+      "size": 107470,
+      "url": "https://cdn.modrinth.com/data/ywwXJDli/versions/nquNxBhW/lootrmon-fabric-1.21.1-0.0.0.3.jar",
+      "urls": [
+        "https://cdn.modrinth.com/data/ywwXJDli/versions/nquNxBhW/lootrmon-fabric-1.21.1-0.0.0.3.jar"
       ]
     },
     {
@@ -1233,6 +1278,18 @@
       "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/IcHYiWHv/image2map-0.7.1%2B1.21.jar",
       "urls": [
         "https://cdn.modrinth.com/data/13RpG7dA/versions/IcHYiWHv/image2map-0.7.1%2B1.21.jar"
+      ]
+    },
+    {
+      "path": "mods/Flashback-0.39.10-for-MC1.21.1.jar",
+      "sha1": "3705800d44eddbb417d8ca741116883525fbb3b2",
+      "size": 210786498,
+      "url": "https://cdn.modrinth.com/data/4das1Fjq/versions/nPzvTtsX/Flashback-0.39.10-for-MC1.21.1.jar",
+      "profiles": [
+        "constructor"
+      ],
+      "urls": [
+        "https://cdn.modrinth.com/data/4das1Fjq/versions/nPzvTtsX/Flashback-0.39.10-for-MC1.21.1.jar"
       ]
     },
     {
@@ -1306,13 +1363,13 @@
       ]
     },
     {
-      "path": "shaderpacks/MakeUp-UltraFast-9.5e.zip",
-      "sha1": "84f7f6ddf81f602ff241fb9c576411cdda309f9e",
-      "size": 400417,
-      "url": "https://cdn.modrinth.com/data/izsIPI7a/versions/T3EhqZo1/MakeUp-UltraFast-9.5e.zip",
+      "path": "shaderpacks/MakeUp-UltraFast-9.5g.zip",
+      "sha1": "57938ae6e1c83a2758b2e5dab80061d5002e88e7",
+      "size": 405096,
+      "url": "https://cdn.modrinth.com/data/izsIPI7a/versions/pgb0JjoN/MakeUp-UltraFast-9.5g.zip",
       "once": true,
       "urls": [
-        "https://cdn.modrinth.com/data/izsIPI7a/versions/T3EhqZo1/MakeUp-UltraFast-9.5e.zip"
+        "https://cdn.modrinth.com/data/izsIPI7a/versions/pgb0JjoN/MakeUp-UltraFast-9.5g.zip"
       ]
     },
     {
@@ -1326,11 +1383,11 @@
     },
     {
       "path": "mods/lunaeternal-0.1.0.jar",
-      "sha1": "54647916f900691b0bd7817b9014ec5f3cdfe3e2",
-      "size": 108406343,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-doors-roles-54647916f9.jar",
+      "sha1": "f9265b0885290805cc736cf4e61ae56d17cd97b8",
+      "size": 108309071,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-f9265b0885.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-doors-roles-54647916f9.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-f9265b0885.jar"
       ]
     },
     {
@@ -1398,14 +1455,14 @@
     },
     {
       "path": "config",
-      "sha1": "080ea126bb0900cae9a5bf394d645b0c6c7b176b",
-      "size": 223507,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-080ea126bb.zip",
+      "sha1": "9f30310fca0d0d837be3d0c3571e7e230ab44ac8",
+      "size": 222164,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-9f30310fca.zip",
       "archive": true,
       "keepExisting": true,
       "once": true,
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-080ea126bb.zip"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/config-9f30310fca.zip"
       ]
     },
     {
@@ -1447,48 +1504,9 @@
       "sha1": "2266d59eb4635eeadef399687559748567080c92",
       "size": 253,
       "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/cobblemon-cards-2266d59eb4.json",
+      "managed": true,
       "urls": [
         "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/cobblemon-cards-2266d59eb4.json"
-      ],
-      "managed": true
-    },
-    {
-      "path": "mods/Flashback-0.39.9-for-MC1.21.1.jar",
-      "sha1": "bac9ad3387bb57df005d9bd2290d3810c1ff3c81",
-      "size": 210802503,
-      "url": "https://cdn.modrinth.com/data/4das1Fjq/versions/wZHvoJL4/Flashback-0.39.9-for-MC1.21.1.jar",
-      "profiles": [
-        "constructor"
-      ],
-      "urls": [
-        "https://cdn.modrinth.com/data/4das1Fjq/versions/wZHvoJL4/Flashback-0.39.9-for-MC1.21.1.jar"
-      ]
-    },
-    {
-      "path": "mods/watermedia-3.0.0.23.jar",
-      "sha1": "a644ab079cc9ed19a62b181e0252be5a9a422166",
-      "size": 3625444,
-      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/FdCZ5Rxq/watermedia-3.0.0.23.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/G922NeHS/versions/FdCZ5Rxq/watermedia-3.0.0.23.jar"
-      ]
-    },
-    {
-      "path": "mods/watermedia_binaries-3.0.0.6.jar",
-      "sha1": "8f132fc2fec0fe91a9a085c11088f0773da187fc",
-      "size": 143725808,
-      "url": "https://cdn.modrinth.com/data/4997XcoK/versions/fYWsOuBz/watermedia_binaries-3.0.0.6.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/4997XcoK/versions/fYWsOuBz/watermedia_binaries-3.0.0.6.jar"
-      ]
-    },
-    {
-      "path": "mods/punchy-2.8c-fabric-1.21.1.jar",
-      "sha1": "fcca6d5503597d1175fa9b0d0cae55393f3a214c",
-      "size": 1858121,
-      "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/80B8c9Qd/punchy-2.8c-fabric-1.21.1.jar",
-      "urls": [
-        "https://cdn.modrinth.com/data/8aoMKplv/versions/80B8c9Qd/punchy-2.8c-fabric-1.21.1.jar"
       ]
     }
   ]
