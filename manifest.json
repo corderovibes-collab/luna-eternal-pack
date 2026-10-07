@@ -1182,6 +1182,15 @@
       ]
     },
     {
+      "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
+      "sha1": "2b3f229ed746955b756807a92e09e9a32d636776",
+      "size": 5369475,
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VS5X7jZd/voicechat-fabric-1.21.1-2.6.22.jar",
+      "urls": [
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/VS5X7jZd/voicechat-fabric-1.21.1-2.6.22.jar"
+      ]
+    },
+    {
       "path": "mods/punchy-2.8c-fabric-1.21.1.jar",
       "sha1": "fcca6d5503597d1175fa9b0d0cae55393f3a214c",
       "size": 1858121,
@@ -1272,15 +1281,15 @@
       ]
     },
     {
-      "path": "mods/Flashback-0.39.10-for-MC1.21.1.jar",
-      "sha1": "3705800d44eddbb417d8ca741116883525fbb3b2",
-      "size": 210786498,
-      "url": "https://cdn.modrinth.com/data/4das1Fjq/versions/nPzvTtsX/Flashback-0.39.10-for-MC1.21.1.jar",
+      "path": "mods/Flashback-0.39.8-for-MC1.21.jar",
+      "sha1": "b9180aac353f0dfff6a44039673d0ee8cf9f4a11",
+      "size": 210810969,
+      "url": "https://cdn.modrinth.com/data/4das1Fjq/versions/d1dppNas/Flashback-0.39.8-for-MC1.21.jar",
       "profiles": [
         "constructor"
       ],
       "urls": [
-        "https://cdn.modrinth.com/data/4das1Fjq/versions/nPzvTtsX/Flashback-0.39.10-for-MC1.21.1.jar"
+        "https://cdn.modrinth.com/data/4das1Fjq/versions/d1dppNas/Flashback-0.39.8-for-MC1.21.jar"
       ]
     },
     {
@@ -1374,11 +1383,11 @@
     },
     {
       "path": "mods/lunaeternal-0.1.0.jar",
-      "sha1": "39a810027e14493977ca0fdeddf58c6097a4a274",
-      "size": 108514247,
-      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-39a810027e.jar",
+      "sha1": "665d254582f40619a381191cc7aaedae0831c1bc",
+      "size": 102209039,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-665d254582.jar",
       "urls": [
-        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-39a810027e.jar"
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/lunaeternal-0.1.0-665d254582.jar"
       ]
     },
     {
@@ -1488,6 +1497,26 @@
       "urls": [
         "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/iris-4e4aad3b77.properties",
         "https://raw.githubusercontent.com/corderovibes-collab/luna-eternal-pack/master/iris.properties"
+      ]
+    },
+    {
+      "path": "options.txt",
+      "sha1": "dd41d13f539a6714328f200104fc553be7db0f29",
+      "size": 10126,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/player-defaults-dd41d13f53-options.txt",
+      "once": true,
+      "urls": [
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/player-defaults-dd41d13f53-options.txt"
+      ]
+    },
+    {
+      "path": "defaultoptions.journal.json",
+      "sha1": "5e87aa27cbacb866743e9ccddc1752d4a684d6f1",
+      "size": 71,
+      "url": "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/player-defaults-5e87aa27cb-defaultoptions.journal.json",
+      "once": true,
+      "urls": [
+        "https://github.com/corderovibes-collab/luna-eternal-pack/releases/download/pack-assets/player-defaults-5e87aa27cb-defaultoptions.journal.json"
       ]
     },
     {
